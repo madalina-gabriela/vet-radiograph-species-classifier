@@ -1,0 +1,2577 @@
+{
+  "split_level": "patient",
+  "train": [
+    [
+      "Catei/Patient 36/cd333e78",
+      0
+    ],
+    [
+      "Catei/Patient 36/cee81717",
+      0
+    ],
+    [
+      "Catei/Patient 36/e5f50dfd",
+      0
+    ],
+    [
+      "Pisici/Patient 84/88b7ab3f",
+      1
+    ],
+    [
+      "Pisici/Patient 84/88b81f9f",
+      1
+    ],
+    [
+      "Pisici/Patient 84/88b89414",
+      1
+    ],
+    [
+      "Pisici/Patient 84/88b90874",
+      1
+    ],
+    [
+      "Pisici/Patient 84/d36804c5",
+      1
+    ],
+    [
+      "Pisici/Patient 84/d6cc9e3",
+      1
+    ],
+    [
+      "Pisici/Patient 84/d6d1b603",
+      1
+    ],
+    [
+      "Pisici/Patient 84/d8868ea2",
+      1
+    ],
+    [
+      "Pisici/Patient 84/dbf03fe0",
+      1
+    ],
+    [
+      "Catei/Patient 57/4773005c",
+      0
+    ],
+    [
+      "Catei/Patient 57/477374bc",
+      0
+    ],
+    [
+      "Catei/Patient 57/4773e931",
+      0
+    ],
+    [
+      "Catei/Patient 102/5ebd5c3b",
+      0
+    ],
+    [
+      "Catei/Patient 102/68f7b5a0",
+      0
+    ],
+    [
+      "Pisici/Patient 38/5769466c",
+      1
+    ],
+    [
+      "Pisici/Patient 38/5769bacc",
+      1
+    ],
+    [
+      "Pisici/Patient 38/f4b3669",
+      1
+    ],
+    [
+      "Catei/Patient 8/4299042d",
+      0
+    ],
+    [
+      "Catei/Patient 8/48afea64",
+      0
+    ],
+    [
+      "Catei/Patient 8/9847d082",
+      0
+    ],
+    [
+      "Catei/Patient 8/c4880738",
+      0
+    ],
+    [
+      "Catei/Patient 8/ca977f88",
+      0
+    ],
+    [
+      "Catei/Patient 34/2daa99c8",
+      0
+    ],
+    [
+      "Catei/Patient 34/2dab0e28",
+      0
+    ],
+    [
+      "Catei/Patient 34/2dab829d",
+      0
+    ],
+    [
+      "Catei/Patient 34/2dabf6fd",
+      0
+    ],
+    [
+      "Catei/Patient 34/2dac6b5d",
+      0
+    ],
+    [
+      "Catei/Patient 67/38d6aee4",
+      0
+    ],
+    [
+      "Catei/Patient 67/38d72344",
+      0
+    ],
+    [
+      "Catei/Patient 16/b5035016",
+      0
+    ],
+    [
+      "Catei/Patient 16/b503c476",
+      0
+    ],
+    [
+      "Catei/Patient 83/13b361eb",
+      0
+    ],
+    [
+      "Catei/Patient 83/13b3d64b",
+      0
+    ],
+    [
+      "Catei/Patient 83/13b44ac0",
+      0
+    ],
+    [
+      "Catei/Patient 83/13b4bf20",
+      0
+    ],
+    [
+      "Catei/Patient 83/13b53380",
+      0
+    ],
+    [
+      "Catei/Patient 83/13b5a7e0",
+      0
+    ],
+    [
+      "Catei/Patient 83/13b61c40",
+      0
+    ],
+    [
+      "Catei/Patient 82/11fe894c",
+      0
+    ],
+    [
+      "Catei/Patient 82/11fefdac",
+      0
+    ],
+    [
+      "Catei/Patient 82/11ff7221",
+      0
+    ],
+    [
+      "Catei/Patient 82/356d6eba",
+      0
+    ],
+    [
+      "Catei/Patient 82/8d08d432",
+      0
+    ],
+    [
+      "Catei/Patient 82/8d094892",
+      0
+    ],
+    [
+      "Catei/Patient 82/8d09bd07",
+      0
+    ],
+    [
+      "Pisici/Patient 80/28e7e6a1",
+      1
+    ],
+    [
+      "Pisici/Patient 80/28e85b01",
+      1
+    ],
+    [
+      "Pisici/Patient 80/c2b65065",
+      1
+    ],
+    [
+      "Pisici/Patient 80/c2b6c4c5",
+      1
+    ],
+    [
+      "Catei/Patient 21/3d729b03",
+      0
+    ],
+    [
+      "Catei/Patient 21/3d730f63",
+      0
+    ],
+    [
+      "Catei/Patient 21/3d7383d8",
+      0
+    ],
+    [
+      "Catei/Patient 21/3d73f838",
+      0
+    ],
+    [
+      "Catei/Patient 21/b708a3c0",
+      0
+    ],
+    [
+      "Catei/Patient 21/dffcf2a8",
+      0
+    ],
+    [
+      "Catei/Patient 14/55283677",
+      0
+    ],
+    [
+      "Catei/Patient 14/5528aad7",
+      0
+    ],
+    [
+      "Catei/Patient 44/d435d887",
+      0
+    ],
+    [
+      "Catei/Patient 44/d4364ce7",
+      0
+    ],
+    [
+      "Catei/Patient 44/d436c15c",
+      0
+    ],
+    [
+      "Catei/Patient 44/d43735bc",
+      0
+    ],
+    [
+      "Catei/Patient 44/d437aa1c",
+      0
+    ],
+    [
+      "Pisici/Patient 21/1bf54426",
+      1
+    ],
+    [
+      "Pisici/Patient 21/1bf62cfb",
+      1
+    ],
+    [
+      "Catei/Patient 18/5b6958f7",
+      0
+    ],
+    [
+      "Catei/Patient 18/5b69cd57",
+      0
+    ],
+    [
+      "Pisici/Patient 25/dd43b35b",
+      1
+    ],
+    [
+      "Pisici/Patient 25/dd4427d0",
+      1
+    ],
+    [
+      "Pisici/Patient 61/6fc8b67e",
+      1
+    ],
+    [
+      "Pisici/Patient 61/6fc92ade",
+      1
+    ],
+    [
+      "Pisici/Patient 61/e5b47787",
+      1
+    ],
+    [
+      "Catei/Patient 55/33a4d60d",
+      0
+    ],
+    [
+      "Catei/Patient 55/33a54a6d",
+      0
+    ],
+    [
+      "Catei/Patient 55/33a5bee2",
+      0
+    ],
+    [
+      "Catei/Patient 47/4c65b2d4",
+      0
+    ],
+    [
+      "Catei/Patient 47/4c662734",
+      0
+    ],
+    [
+      "Catei/Patient 47/92ca58ef",
+      0
+    ],
+    [
+      "Catei/Patient 47/92cacd4f",
+      0
+    ],
+    [
+      "Catei/Patient 47/92cb41c4",
+      0
+    ],
+    [
+      "Catei/Patient 47/92cbb624",
+      0
+    ],
+    [
+      "Catei/Patient 41/90a51f29",
+      0
+    ],
+    [
+      "Catei/Patient 41/90a59389",
+      0
+    ],
+    [
+      "Catei/Patient 41/90a607fe",
+      0
+    ],
+    [
+      "Catei/Patient 41/90a67c5e",
+      0
+    ],
+    [
+      "Pisici/Patient 41/1d207f89",
+      1
+    ],
+    [
+      "Pisici/Patient 41/1d20f3e9",
+      1
+    ],
+    [
+      "Pisici/Patient 41/1d21685e",
+      1
+    ],
+    [
+      "Catei/Patient 38/155a3dcd",
+      0
+    ],
+    [
+      "Catei/Patient 38/1f975187",
+      0
+    ],
+    [
+      "Catei/Patient 38/1f97c5e7",
+      0
+    ],
+    [
+      "Catei/Patient 66/5da0afaf",
+      0
+    ],
+    [
+      "Catei/Patient 66/5da1240f",
+      0
+    ],
+    [
+      "Catei/Patient 66/5da19884",
+      0
+    ],
+    [
+      "Pisici/Patient 14/7fdf5411",
+      1
+    ],
+    [
+      "Pisici/Patient 14/7fdfc871",
+      1
+    ],
+    [
+      "Pisici/Patient 14/7fe03ce6",
+      1
+    ],
+    [
+      "Catei/Patient 74/be8537e6",
+      0
+    ],
+    [
+      "Catei/Patient 74/be85ac46",
+      0
+    ],
+    [
+      "Pisici/Patient 8 /56157d7d",
+      1
+    ],
+    [
+      "Pisici/Patient 8 /56166652",
+      1
+    ],
+    [
+      "Pisici/Patient 8 /5616dab2",
+      1
+    ],
+    [
+      "Catei/Patient 42/6f5fa5d2",
+      0
+    ],
+    [
+      "Catei/Patient 42/6f601a32",
+      0
+    ],
+    [
+      "Catei/Patient 42/6f608ea7",
+      0
+    ],
+    [
+      "Catei/Patient 42/6f610307",
+      0
+    ],
+    [
+      "Pisici/Patient 59/cb3c88da",
+      1
+    ],
+    [
+      "Pisici/Patient 59/cb3cfd3a",
+      1
+    ],
+    [
+      "Pisici/Patient 59/cb3d71af",
+      1
+    ],
+    [
+      "Catei/Patient 12/596842ac",
+      0
+    ],
+    [
+      "Catei/Patient 12/5968b70c",
+      0
+    ],
+    [
+      "Pisici/Patient 9/b56f1ff4",
+      1
+    ],
+    [
+      "Pisici/Patient 9/b56f9454",
+      1
+    ],
+    [
+      "Catei/Patient 22/3180aeaa",
+      0
+    ],
+    [
+      "Catei/Patient 22/3181230a",
+      0
+    ],
+    [
+      "Catei/Patient 22/3181977f",
+      0
+    ],
+    [
+      "Catei/Patient 22/31820bdf",
+      0
+    ],
+    [
+      "Catei/Patient 22/3182f49f",
+      0
+    ],
+    [
+      "Catei/Patient 22/318368ff",
+      0
+    ],
+    [
+      "Catei/Patient 30/692c7965",
+      0
+    ],
+    [
+      "Catei/Patient 30/692cedc5",
+      0
+    ],
+    [
+      "Catei/Patient 30/692d623a",
+      0
+    ],
+    [
+      "Pisici/Patient 22/be85578b",
+      1
+    ],
+    [
+      "Pisici/Patient 22/be85cbeb",
+      1
+    ],
+    [
+      "Catei/Patient 5/1ae01966",
+      0
+    ],
+    [
+      "Catei/Patient 5/1c366614",
+      0
+    ],
+    [
+      "Catei/Patient 5/4c9c1240",
+      0
+    ],
+    [
+      "Catei/Patient 5/61286b3a",
+      0
+    ],
+    [
+      "Catei/Patient 5/676dd6dc",
+      0
+    ],
+    [
+      "Catei/Patient 5/70d4358",
+      0
+    ],
+    [
+      "Catei/Patient 5/938226a0",
+      0
+    ],
+    [
+      "Catei/Patient 5/a5be3d94",
+      0
+    ],
+    [
+      "Catei/Patient 5/fa167aa7",
+      0
+    ],
+    [
+      "Catei/Patient 59/842d235d",
+      0
+    ],
+    [
+      "Catei/Patient 59/842d97bd",
+      0
+    ],
+    [
+      "Catei/Patient 91/4f96938f",
+      0
+    ],
+    [
+      "Catei/Patient 91/4f9707ef",
+      0
+    ],
+    [
+      "Catei/Patient 91/4f977c64",
+      0
+    ],
+    [
+      "Pisici/Patient 3/1.INTECH.2023.08.19.10.20.09.0.dcm",
+      1
+    ],
+    [
+      "Pisici/Patient 3/1.INTECH.2023.08.19.10.20.09.1.dcm",
+      1
+    ],
+    [
+      "Pisici/Patient 3/1.INTECH.2023.08.19.10.20.09.2.dcm",
+      1
+    ],
+    [
+      "Pisici/Patient 3/1.INTECH.2023.08.19.10.20.09.3.dcm",
+      1
+    ],
+    [
+      "Pisici/Patient 3/1.INTECH.2023.08.19.10.20.09.4.dcm",
+      1
+    ],
+    [
+      "Catei/Patient 103/e9e9ea4f",
+      0
+    ],
+    [
+      "Catei/Patient 103/e9ea5eaf",
+      0
+    ],
+    [
+      "Pisici/Patient 73/7a5446eb",
+      1
+    ],
+    [
+      "Catei/Patient 45/c86f1d3e",
+      0
+    ],
+    [
+      "Catei/Patient 45/c86f919e",
+      0
+    ],
+    [
+      "Catei/Patient 45/c8700613",
+      0
+    ],
+    [
+      "Catei/Patient 45/c8707a73",
+      0
+    ],
+    [
+      "Catei/Patient 28/e010f700",
+      0
+    ],
+    [
+      "Catei/Patient 28/e8356be7",
+      0
+    ],
+    [
+      "Catei/Patient 28/e835e047",
+      0
+    ],
+    [
+      "Catei/Patient 28/e83654bc",
+      0
+    ],
+    [
+      "Catei/Patient 28/e836c91c",
+      0
+    ],
+    [
+      "Pisici/Patient 26/24ed6c08",
+      1
+    ],
+    [
+      "Pisici/Patient 26/24ede068",
+      1
+    ],
+    [
+      "Catei/Patient 7/31237ee0",
+      0
+    ],
+    [
+      "Catei/Patient 7/313bf3d0",
+      0
+    ],
+    [
+      "Catei/Patient 7/6be2ab20",
+      0
+    ],
+    [
+      "Catei/Patient 7/706c3dfc",
+      0
+    ],
+    [
+      "Catei/Patient 7/bfd5f73e",
+      0
+    ],
+    [
+      "Catei/Patient 7/cec01baf",
+      0
+    ],
+    [
+      "Catei/Patient 7/e14d503b",
+      0
+    ],
+    [
+      "Catei/Patient 7/e7a1c37f",
+      0
+    ],
+    [
+      "Catei/Patient 51/22160065",
+      0
+    ],
+    [
+      "Catei/Patient 51/221674c5",
+      0
+    ],
+    [
+      "Catei/Patient 51/22175d9a",
+      0
+    ],
+    [
+      "Catei/Patient 51/2a9e3b80",
+      0
+    ],
+    [
+      "Catei/Patient 51/2a9eafe0",
+      0
+    ],
+    [
+      "Catei/Patient 4/5ece4bda",
+      0
+    ],
+    [
+      "Catei/Patient 4/d9192b39",
+      0
+    ],
+    [
+      "Catei/Patient 76/491e4502",
+      0
+    ],
+    [
+      "Catei/Patient 76/491eb962",
+      0
+    ],
+    [
+      "Catei/Patient 76/491f2dd7",
+      0
+    ],
+    [
+      "Pisici/Patient 28/57c3cd3f",
+      1
+    ],
+    [
+      "Pisici/Patient 28/57c4419f",
+      1
+    ],
+    [
+      "Pisici/Patient 28/57c52a74",
+      1
+    ],
+    [
+      "Pisici/Patient 23/906c640e",
+      1
+    ],
+    [
+      "Pisici/Patient 23/906cd883",
+      1
+    ],
+    [
+      "Pisici/Patient 18/5f9784f2",
+      1
+    ],
+    [
+      "Pisici/Patient 18/5f97f952",
+      1
+    ],
+    [
+      "Pisici/Patient 18/5f986dc7",
+      1
+    ],
+    [
+      "Catei/Patient 11/5ebaa1e6",
+      0
+    ],
+    [
+      "Catei/Patient 11/5ebb1646",
+      0
+    ],
+    [
+      "Catei/Patient 11/5ebb8abb",
+      0
+    ],
+    [
+      "Catei/Patient 11/5ebbff1b",
+      0
+    ],
+    [
+      "Catei/Patient 11/5ebc737b",
+      0
+    ],
+    [
+      "Catei/Patient 11/5ebce7db",
+      0
+    ],
+    [
+      "Catei/Patient 62/b1dffb04",
+      0
+    ],
+    [
+      "Catei/Patient 62/b1e06f64",
+      0
+    ],
+    [
+      "Catei/Patient 62/b1e0e3d9",
+      0
+    ],
+    [
+      "Catei/Patient 62/b1e15839",
+      0
+    ],
+    [
+      "Pisici/Patient 35/51976c06",
+      1
+    ],
+    [
+      "Pisici/Patient 35/c93805ae",
+      1
+    ],
+    [
+      "Pisici/Patient 35/c9387a0e",
+      1
+    ],
+    [
+      "Catei/Patient 63/12e2a75a",
+      0
+    ],
+    [
+      "Catei/Patient 63/12e31bba",
+      0
+    ],
+    [
+      "Catei/Patient 63/e9b0fd2b",
+      0
+    ],
+    [
+      "Catei/Patient 63/e9b1718b",
+      0
+    ],
+    [
+      "Catei/Patient 48/86d31ec1",
+      0
+    ],
+    [
+      "Catei/Patient 48/86d39321",
+      0
+    ],
+    [
+      "Pisici/Patient 51/f0c74f09",
+      1
+    ],
+    [
+      "Catei/Patient 86/50bfc1f4",
+      0
+    ],
+    [
+      "Catei/Patient 86/50c03654",
+      0
+    ],
+    [
+      "Catei/Patient 86/50c0aac9",
+      0
+    ],
+    [
+      "Catei/Patient 86/50c11f29",
+      0
+    ],
+    [
+      "Catei/Patient 86/a6eb768c",
+      0
+    ],
+    [
+      "Catei/Patient 6/5cab26d8",
+      0
+    ],
+    [
+      "Catei/Patient 6/a7ce1fc9",
+      0
+    ],
+    [
+      "Catei/Patient 6/f22ed4ee",
+      0
+    ],
+    [
+      "Catei/Patient 35/52c9c68c",
+      0
+    ],
+    [
+      "Catei/Patient 35/52ca3aec",
+      0
+    ],
+    [
+      "Catei/Patient 35/52caaf61",
+      0
+    ],
+    [
+      "Catei/Patient 35/52cb23c1",
+      0
+    ],
+    [
+      "Catei/Patient 35/52cb9821",
+      0
+    ],
+    [
+      "Catei/Patient 35/52cc0c81",
+      0
+    ],
+    [
+      "Pisici/Patient 72/604f1251",
+      1
+    ],
+    [
+      "Pisici/Patient 72/604f86b1",
+      1
+    ],
+    [
+      "Pisici/Patient 72/604ffb26",
+      1
+    ],
+    [
+      "Catei/Patient 72/26d717a7",
+      0
+    ],
+    [
+      "Catei/Patient 72/a1e1628d",
+      0
+    ],
+    [
+      "Pisici/Patient 43/b0d1aedd",
+      1
+    ],
+    [
+      "Pisici/Patient 43/f76d9eb8",
+      1
+    ],
+    [
+      "Pisici/Patient 43/f76e1318",
+      1
+    ],
+    [
+      "Pisici/Patient 43/f76e878d",
+      1
+    ],
+    [
+      "Catei/Patient 81/3ec53b26",
+      0
+    ],
+    [
+      "Catei/Patient 81/3ec5af86",
+      0
+    ],
+    [
+      "Catei/Patient 81/3ec623fb",
+      0
+    ],
+    [
+      "Catei/Patient 64/2c3d3662",
+      0
+    ],
+    [
+      "Catei/Patient 64/b2e7c41b",
+      0
+    ],
+    [
+      "Catei/Patient 64/b2e8387b",
+      0
+    ],
+    [
+      "Catei/Patient 50/80c92743",
+      0
+    ],
+    [
+      "Catei/Patient 50/80c99ba3",
+      0
+    ],
+    [
+      "Catei/Patient 50/80ca1018",
+      0
+    ],
+    [
+      "Catei/Patient 50/80ca8478",
+      0
+    ],
+    [
+      "Pisici/Patient 63/214c2a26",
+      1
+    ],
+    [
+      "Pisici/Patient 63/214c9e86",
+      1
+    ],
+    [
+      "Pisici/Patient 63/214d12fb",
+      1
+    ],
+    [
+      "Catei/Patient 61/802f7024",
+      0
+    ],
+    [
+      "Catei/Patient 61/802fe484",
+      0
+    ],
+    [
+      "Catei/Patient 61/81e448c3",
+      0
+    ],
+    [
+      "Catei/Patient 97/b50e922",
+      0
+    ],
+    [
+      "Catei/Patient 97/b515d82",
+      0
+    ],
+    [
+      "Catei/Patient 97/b51d1f7",
+      0
+    ],
+    [
+      "Catei/Patient 97/b524657",
+      0
+    ],
+    [
+      "Pisici/Patient 6/75562542",
+      1
+    ],
+    [
+      "Pisici/Patient 6/755699a2",
+      1
+    ],
+    [
+      "Catei/Patient 26/e83133d2",
+      0
+    ],
+    [
+      "Catei/Patient 26/e831a832",
+      0
+    ],
+    [
+      "Catei/Patient 26/e8321ca7",
+      0
+    ],
+    [
+      "Catei/Patient 26/e8329107",
+      0
+    ],
+    [
+      "Catei/Patient 33/a7000c0f",
+      0
+    ],
+    [
+      "Catei/Patient 33/a700806f",
+      0
+    ],
+    [
+      "Catei/Patient 33/a700f4e4",
+      0
+    ],
+    [
+      "Catei/Patient 33/a7016944",
+      0
+    ],
+    [
+      "Catei/Patient 33/a701dda4",
+      0
+    ],
+    [
+      "Pisici/Patient 53/d1e9aa67",
+      1
+    ],
+    [
+      "Pisici/Patient 53/d1ea1ec7",
+      1
+    ],
+    [
+      "Pisici/Patient 7/f14b011d",
+      1
+    ],
+    [
+      "Pisici/Patient 7/f14b757d",
+      1
+    ],
+    [
+      "Pisici/Patient 66/3ad22c3e",
+      1
+    ],
+    [
+      "Pisici/Patient 66/3ad2a09e",
+      1
+    ],
+    [
+      "Pisici/Patient 66/3ad31513",
+      1
+    ],
+    [
+      "Pisici/Patient 78/229fbd07",
+      1
+    ],
+    [
+      "Pisici/Patient 78/22a03167",
+      1
+    ],
+    [
+      "Catei/Patient 10/993a92b5",
+      0
+    ],
+    [
+      "Catei/Patient 10/993b0715",
+      0
+    ],
+    [
+      "Catei/Patient 10/993b7b8a",
+      0
+    ],
+    [
+      "Catei/Patient 10/993befea",
+      0
+    ],
+    [
+      "Catei/Patient 10/993c644a",
+      0
+    ],
+    [
+      "Catei/Patient 10/993cd8aa",
+      0
+    ],
+    [
+      "Pisici/Patient 56/b0d0281a",
+      1
+    ],
+    [
+      "Pisici/Patient 56/b0d09c7a",
+      1
+    ],
+    [
+      "Pisici/Patient 56/b0d110ef",
+      1
+    ],
+    [
+      "Catei/Patient 29/42c87631",
+      0
+    ],
+    [
+      "Pisici/Patient 77/8c2fda8",
+      1
+    ],
+    [
+      "Pisici/Patient 77/8c37208",
+      1
+    ],
+    [
+      "Pisici/Patient 77/e0aa21d5",
+      1
+    ],
+    [
+      "Catei/Patient 79/92430bb9",
+      0
+    ],
+    [
+      "Catei/Patient 79/92438019",
+      0
+    ],
+    [
+      "Catei/Patient 79/9243f48e",
+      0
+    ],
+    [
+      "Catei/Patient 79/924468ee",
+      0
+    ],
+    [
+      "Catei/Patient 79/9244dd4e",
+      0
+    ],
+    [
+      "Catei/Patient 79/924551ae",
+      0
+    ],
+    [
+      "Pisici/Patient 36/290e8e04",
+      1
+    ],
+    [
+      "Pisici/Patient 36/a264004b",
+      1
+    ],
+    [
+      "Pisici/Patient 36/a26474ab",
+      1
+    ],
+    [
+      "Pisici/Patient 45/1aab4868",
+      1
+    ],
+    [
+      "Pisici/Patient 52/c92ecee9",
+      1
+    ],
+    [
+      "Pisici/Patient 52/c92f4349",
+      1
+    ],
+    [
+      "Pisici/Patient 17/abc7c472",
+      1
+    ],
+    [
+      "Catei/Patient 46/e03eb0ef",
+      0
+    ],
+    [
+      "Catei/Patient 46/e03f254f",
+      0
+    ],
+    [
+      "Catei/Patient 46/e03f99c4",
+      0
+    ],
+    [
+      "Pisici/Patient 31/23c67040",
+      1
+    ],
+    [
+      "Pisici/Patient 31/23c6e4a0",
+      1
+    ],
+    [
+      "Catei/Patient 1/1f91e47b",
+      0
+    ],
+    [
+      "Catei/Patient 1/2daf4b57",
+      0
+    ],
+    [
+      "Catei/Patient 1/33960f6c",
+      0
+    ],
+    [
+      "Catei/Patient 1/4a616fa1",
+      0
+    ],
+    [
+      "Catei/Patient 1/6d1f92d3",
+      0
+    ],
+    [
+      "Catei/Patient 1/7e10f0e8",
+      0
+    ],
+    [
+      "Catei/Patient 1/a60e428c",
+      0
+    ],
+    [
+      "Catei/Patient 56/b0f9bc01",
+      0
+    ],
+    [
+      "Catei/Patient 56/b0fa3061",
+      0
+    ],
+    [
+      "Catei/Patient 3/7490cbf3",
+      0
+    ],
+    [
+      "Catei/Patient 3/8e9b935",
+      0
+    ],
+    [
+      "Pisici/Patient 33/1090c044",
+      1
+    ],
+    [
+      "Pisici/Patient 33/109134a4",
+      1
+    ],
+    [
+      "Catei/Patient 15/784bcfa",
+      0
+    ],
+    [
+      "Pisici/Patient 30/405d61e9",
+      1
+    ],
+    [
+      "Pisici/Patient 30/88ae9ec3",
+      1
+    ],
+    [
+      "Catei/Patient 43/70a981eb",
+      0
+    ],
+    [
+      "Catei/Patient 43/70aa6ac0",
+      0
+    ],
+    [
+      "Catei/Patient 43/70ab5380",
+      0
+    ],
+    [
+      "Pisici/Patient 1/825e8f63",
+      1
+    ],
+    [
+      "Pisici/Patient 1/825f03c3",
+      1
+    ],
+    [
+      "Pisici/Patient 1/825f7838",
+      1
+    ],
+    [
+      "Catei/Patient 96/3b14093d",
+      0
+    ],
+    [
+      "Catei/Patient 96/3b147d9d",
+      0
+    ],
+    [
+      "Catei/Patient 96/3b14f212",
+      0
+    ],
+    [
+      "Catei/Patient 39/24a8f7b4",
+      0
+    ],
+    [
+      "Catei/Patient 39/24a96c14",
+      0
+    ],
+    [
+      "Catei/Patient 39/24a9e089",
+      0
+    ],
+    [
+      "Pisici/Patient 67/eaccca9a",
+      1
+    ],
+    [
+      "Pisici/Patient 67/eacd3efa",
+      1
+    ],
+    [
+      "Catei/Patient 78/fe5c5607",
+      0
+    ],
+    [
+      "Catei/Patient 78/fe5cca67",
+      0
+    ],
+    [
+      "Catei/Patient 78/fe5d3edc",
+      0
+    ],
+    [
+      "Pisici/Patient 54/b171274a",
+      1
+    ],
+    [
+      "Pisici/Patient 54/b1719bbf",
+      1
+    ],
+    [
+      "Pisici/Patient 54/bef0a8cc",
+      1
+    ],
+    [
+      "Catei/Patient 40/2a0ca950",
+      0
+    ],
+    [
+      "Catei/Patient 40/2a0d1db0",
+      0
+    ],
+    [
+      "Catei/Patient 40/2a0d9225",
+      0
+    ],
+    [
+      "Pisici/Patient 11/9d4e39e9",
+      1
+    ],
+    [
+      "Pisici/Patient 11/9d4eae49",
+      1
+    ],
+    [
+      "Pisici/Patient 11/9d4f22be",
+      1
+    ],
+    [
+      "Catei/Patient 23/2689203b",
+      0
+    ],
+    [
+      "Catei/Patient 23/2689949b",
+      0
+    ],
+    [
+      "Catei/Patient 23/268a0910",
+      0
+    ],
+    [
+      "Catei/Patient 23/268a7d70",
+      0
+    ],
+    [
+      "Catei/Patient 23/268af1d0",
+      0
+    ],
+    [
+      "Catei/Patient 23/268b6630",
+      0
+    ],
+    [
+      "Pisici/Patient 27/ae213d72",
+      1
+    ],
+    [
+      "Pisici/Patient 27/ae21b1d2",
+      1
+    ],
+    [
+      "Pisici/Patient 27/ae222647",
+      1
+    ],
+    [
+      "Catei/Patient 94/77e8630",
+      0
+    ],
+    [
+      "Catei/Patient 94/77efa90",
+      0
+    ],
+    [
+      "Catei/Patient 94/77f6f05",
+      0
+    ],
+    [
+      "Catei/Patient 94/77fe365",
+      0
+    ],
+    [
+      "Catei/Patient 94/78057c5",
+      0
+    ],
+    [
+      "Catei/Patient 94/780cc25",
+      0
+    ],
+    [
+      "Catei/Patient 94/7814085",
+      0
+    ],
+    [
+      "Catei/Patient 94/781b4e5",
+      0
+    ],
+    [
+      "Catei/Patient 94/e86129df",
+      0
+    ],
+    [
+      "Catei/Patient 94/e8619e3f",
+      0
+    ],
+    [
+      "Pisici/Patient 62/d33769da",
+      1
+    ],
+    [
+      "Pisici/Patient 62/d337de3a",
+      1
+    ],
+    [
+      "Pisici/Patient 62/d33852af",
+      1
+    ],
+    [
+      "Catei/Patient 17/49029758",
+      0
+    ],
+    [
+      "Catei/Patient 17/49030bb8",
+      0
+    ],
+    [
+      "Catei/Patient 65/4e6f97c7",
+      0
+    ],
+    [
+      "Catei/Patient 65/4e700c27",
+      0
+    ],
+    [
+      "Pisici/Patient 57/861a1ce3",
+      1
+    ],
+    [
+      "Pisici/Patient 57/861a9143",
+      1
+    ],
+    [
+      "Catei/Patient 101/77b4f860",
+      0
+    ],
+    [
+      "Catei/Patient 101/77b56cc0",
+      0
+    ],
+    [
+      "Catei/Patient 101/77b5e135",
+      0
+    ],
+    [
+      "Pisici/Patient 50/d25fca3",
+      1
+    ],
+    [
+      "Pisici/Patient 50/d267103",
+      1
+    ],
+    [
+      "Pisici/Patient 50/d26e578",
+      1
+    ],
+    [
+      "Pisici/Patient 5/b0d13a7d",
+      1
+    ],
+    [
+      "Pisici/Patient 5/b0d1aedd",
+      1
+    ],
+    [
+      "Pisici/Patient 5/b0d22352",
+      1
+    ],
+    [
+      "Pisici/Patient 5/b0d297b2",
+      1
+    ],
+    [
+      "Pisici/Patient 79/686b9760",
+      1
+    ],
+    [
+      "Pisici/Patient 79/686c0bc0",
+      1
+    ],
+    [
+      "Pisici/Patient 79/686c8035",
+      1
+    ],
+    [
+      "Catei/Patient 95/8a70eca2",
+      0
+    ],
+    [
+      "Catei/Patient 95/8a716102",
+      0
+    ],
+    [
+      "Catei/Patient 95/8a71d577",
+      0
+    ],
+    [
+      "Catei/Patient 69/3edf93ff",
+      0
+    ],
+    [
+      "Catei/Patient 69/3ee0085f",
+      0
+    ],
+    [
+      "Catei/Patient 69/3ee07cd4",
+      0
+    ],
+    [
+      "Pisici/Patient 10/2a22ee3d",
+      1
+    ],
+    [
+      "Pisici/Patient 10/2a23629d",
+      1
+    ],
+    [
+      "Pisici/Patient 10/2a23d712",
+      1
+    ],
+    [
+      "Pisici/Patient 64/2d71c945",
+      1
+    ],
+    [
+      "Pisici/Patient 64/2d723da5",
+      1
+    ],
+    [
+      "Pisici/Patient 68/30f7631c",
+      1
+    ],
+    [
+      "Pisici/Patient 68/30f7d77c",
+      1
+    ],
+    [
+      "Pisici/Patient 68/30f84bf1",
+      1
+    ],
+    [
+      "Pisici/Patient 68/30f8c051",
+      1
+    ],
+    [
+      "Pisici/Patient 76/bcc7791a",
+      1
+    ],
+    [
+      "Pisici/Patient 76/bcc7ed7a",
+      1
+    ],
+    [
+      "Pisici/Patient 76/bcc861ef",
+      1
+    ],
+    [
+      "Pisici/Patient 76/bcc8d64f",
+      1
+    ],
+    [
+      "Pisici/Patient 24/83dadfa9",
+      1
+    ],
+    [
+      "Pisici/Patient 24/83db5409",
+      1
+    ],
+    [
+      "Pisici/Patient 55/673c129f",
+      1
+    ],
+    [
+      "Pisici/Patient 55/673c86ff",
+      1
+    ],
+    [
+      "Pisici/Patient 55/673cfb74",
+      1
+    ],
+    [
+      "Pisici/Patient 55/673d6fd4",
+      1
+    ],
+    [
+      "Pisici/Patient 20/5d773b6d",
+      1
+    ],
+    [
+      "Pisici/Patient 20/5d77afcd",
+      1
+    ],
+    [
+      "Pisici/Patient 58/816e3181",
+      1
+    ],
+    [
+      "Pisici/Patient 58/816ea5e1",
+      1
+    ],
+    [
+      "Pisici/Patient 58/816f1a56",
+      1
+    ],
+    [
+      "Catei/Patient 13/4e760504",
+      0
+    ],
+    [
+      "Catei/Patient 13/4e767964",
+      0
+    ],
+    [
+      "Catei/Patient 49/c0922902",
+      0
+    ],
+    [
+      "Catei/Patient 49/c0929d62",
+      0
+    ],
+    [
+      "Catei/Patient 49/c09311d7",
+      0
+    ],
+    [
+      "Catei/Patient 49/c24701a1",
+      0
+    ],
+    [
+      "Pisici/Patient 71/54297332",
+      1
+    ],
+    [
+      "Pisici/Patient 71/5429e792",
+      1
+    ],
+    [
+      "Pisici/Patient 71/542a5c07",
+      1
+    ],
+    [
+      "Pisici/Patient 71/542ad067",
+      1
+    ],
+    [
+      "Catei/Patient 54/b9d70f30",
+      0
+    ],
+    [
+      "Catei/Patient 54/b9d78390",
+      0
+    ],
+    [
+      "Pisici/Patient 32/9648800b",
+      1
+    ],
+    [
+      "Pisici/Patient 32/9648f46b",
+      1
+    ],
+    [
+      "Pisici/Patient 32/964968e0",
+      1
+    ],
+    [
+      "Pisici/Patient 70/32a7aa72",
+      1
+    ],
+    [
+      "Pisici/Patient 70/32a89347",
+      1
+    ],
+    [
+      "Pisici/Patient 70/32a907a7",
+      1
+    ],
+    [
+      "Pisici/Patient 70/32a97c07",
+      1
+    ],
+    [
+      "Catei/Patient 31/9220c84d",
+      0
+    ],
+    [
+      "Catei/Patient 31/92213cad",
+      0
+    ],
+    [
+      "Catei/Patient 31/9221b122",
+      0
+    ]
+  ],
+  "val": [
+    [
+      "Catei/Patient 37/6f26d54f",
+      0
+    ],
+    [
+      "Catei/Patient 37/6f2749af",
+      0
+    ],
+    [
+      "Pisici/Patient 19/34ee5d6b",
+      1
+    ],
+    [
+      "Pisici/Patient 19/34eed1cb",
+      1
+    ],
+    [
+      "Pisici/Patient 19/34ef4640",
+      1
+    ],
+    [
+      "Catei/Patient 32/26d7374c",
+      0
+    ],
+    [
+      "Catei/Patient 32/26d7abac",
+      0
+    ],
+    [
+      "Catei/Patient 32/26d82021",
+      0
+    ],
+    [
+      "Catei/Patient 32/26d89481",
+      0
+    ],
+    [
+      "Catei/Patient 68/9e3dc7bf",
+      0
+    ],
+    [
+      "Catei/Patient 68/9e3e3c1f",
+      0
+    ],
+    [
+      "Catei/Patient 98/db9a89f1/1e983a67/9858ad06/2c78b056",
+      0
+    ],
+    [
+      "Catei/Patient 98/f45bf0ae",
+      0
+    ],
+    [
+      "Catei/Patient 98/f45c650e",
+      0
+    ],
+    [
+      "Pisici/Patient 48/e4656081",
+      1
+    ],
+    [
+      "Pisici/Patient 48/e465d4e1",
+      1
+    ],
+    [
+      "Pisici/Patient 42/2e11d326",
+      1
+    ],
+    [
+      "Pisici/Patient 42/2e124786",
+      1
+    ],
+    [
+      "Pisici/Patient 47/bd9ef8e3",
+      1
+    ],
+    [
+      "Pisici/Patient 47/bd9f6d43",
+      1
+    ],
+    [
+      "Catei/Patient 75/9b7bf742",
+      0
+    ],
+    [
+      "Catei/Patient 75/9b7c6ba2",
+      0
+    ],
+    [
+      "Catei/Patient 75/ed5cea60",
+      0
+    ],
+    [
+      "Catei/Patient 2/1ad49e60",
+      0
+    ],
+    [
+      "Catei/Patient 71/5df78129",
+      0
+    ],
+    [
+      "Catei/Patient 71/5df7f589",
+      0
+    ],
+    [
+      "Catei/Patient 71/5df869fe",
+      0
+    ],
+    [
+      "Catei/Patient 71/5df8de5e",
+      0
+    ],
+    [
+      "Catei/Patient 71/5df952be",
+      0
+    ],
+    [
+      "Catei/Patient 88/59f20cd7",
+      0
+    ],
+    [
+      "Catei/Patient 88/59f28137",
+      0
+    ],
+    [
+      "Catei/Patient 88/59f2f5ac",
+      0
+    ],
+    [
+      "Catei/Patient 88/5f1096b4",
+      0
+    ],
+    [
+      "Catei/Patient 89/6f4c2dc4",
+      0
+    ],
+    [
+      "Catei/Patient 89/6f4ca224",
+      0
+    ],
+    [
+      "Pisici/Patient 81/d3b33ac9",
+      1
+    ],
+    [
+      "Pisici/Patient 81/d3b3af29",
+      1
+    ],
+    [
+      "Pisici/Patient 81/d3b4239e",
+      1
+    ],
+    [
+      "Pisici/Patient 37/6c3cafb8",
+      1
+    ],
+    [
+      "Catei/Patient 77/2a420197",
+      0
+    ],
+    [
+      "Catei/Patient 77/2a4275f7",
+      0
+    ],
+    [
+      "Catei/Patient 77/2a42ea6c",
+      0
+    ],
+    [
+      "Catei/Patient 87/2dbc2f3d",
+      0
+    ],
+    [
+      "Catei/Patient 87/2dbca39d",
+      0
+    ],
+    [
+      "Catei/Patient 87/2dbd1812",
+      0
+    ],
+    [
+      "Catei/Patient 93/c4839153",
+      0
+    ],
+    [
+      "Catei/Patient 93/c48405b3",
+      0
+    ],
+    [
+      "Pisici/Patient 12/8369d760",
+      1
+    ],
+    [
+      "Pisici/Patient 12/836a4bc0",
+      1
+    ],
+    [
+      "Pisici/Patient 44/ce7aca8b",
+      1
+    ],
+    [
+      "Pisici/Patient 44/ce7b3eeb",
+      1
+    ],
+    [
+      "Catei/Patient 20/c080fd6a",
+      0
+    ],
+    [
+      "Catei/Patient 20/c08171ca",
+      0
+    ],
+    [
+      "Pisici/Patient 65/ba71cd81",
+      1
+    ],
+    [
+      "Pisici/Patient 65/ba7241e1",
+      1
+    ],
+    [
+      "Pisici/Patient 65/ba72b656",
+      1
+    ],
+    [
+      "Pisici/Patient 65/daa6222",
+      1
+    ],
+    [
+      "Catei/Patient 92/e8ab92f",
+      0
+    ],
+    [
+      "Catei/Patient 92/e8b2d8f",
+      0
+    ],
+    [
+      "Catei/Patient 92/e8ba204",
+      0
+    ],
+    [
+      "Pisici/Patient 29/8eca9cca",
+      1
+    ],
+    [
+      "Pisici/Patient 29/8ecb112a",
+      1
+    ],
+    [
+      "Pisici/Patient 60/806f0b09",
+      1
+    ],
+    [
+      "Pisici/Patient 60/806f7f69",
+      1
+    ],
+    [
+      "Pisici/Patient 60/806ff3de",
+      1
+    ],
+    [
+      "Catei/Patient 58/a11f5e8a",
+      0
+    ],
+    [
+      "Pisici/Patient 69/da216a77",
+      1
+    ],
+    [
+      "Pisici/Patient 69/da21ded7",
+      1
+    ],
+    [
+      "Pisici/Patient 49/cb382016",
+      1
+    ]
+  ],
+  "test": [
+    [
+      "Catei/Patient 19/2fde83b6",
+      0
+    ],
+    [
+      "Catei/Patient 19/2fdef816",
+      0
+    ],
+    [
+      "Catei/Patient 19/2fdf6c8b",
+      0
+    ],
+    [
+      "Pisici/Patient 13/5e99daba",
+      1
+    ],
+    [
+      "Pisici/Patient 13/5e9a4f1a",
+      1
+    ],
+    [
+      "Pisici/Patient 16/df95d97c",
+      1
+    ],
+    [
+      "Pisici/Patient 16/df964ddc",
+      1
+    ],
+    [
+      "Pisici/Patient 46/a36723e6",
+      1
+    ],
+    [
+      "Pisici/Patient 46/a3679846",
+      1
+    ],
+    [
+      "Pisici/Patient 46/a3680cbb",
+      1
+    ],
+    [
+      "Pisici/Patient 46/a368811b",
+      1
+    ],
+    [
+      "Catei/Patient 27/c4cb70f6",
+      0
+    ],
+    [
+      "Catei/Patient 27/c4cbe556",
+      0
+    ],
+    [
+      "Catei/Patient 27/c4cc59cb",
+      0
+    ],
+    [
+      "Catei/Patient 27/c4ccce2b",
+      0
+    ],
+    [
+      "Catei/Patient 85/3ea06b",
+      0
+    ],
+    [
+      "Catei/Patient 85/574c5730",
+      0
+    ],
+    [
+      "Catei/Patient 85/574ccb90",
+      0
+    ],
+    [
+      "Catei/Patient 99/9d4eae49",
+      0
+    ],
+    [
+      "Catei/Patient 99/9d4f22be",
+      0
+    ],
+    [
+      "Pisici/Patient 74/b9a7594",
+      1
+    ],
+    [
+      "Pisici/Patient 74/d86912f2",
+      1
+    ],
+    [
+      "Pisici/Patient 74/d8698752",
+      1
+    ],
+    [
+      "Pisici/Patient 74/df3c756e",
+      1
+    ],
+    [
+      "Pisici/Patient 40/80213bb4",
+      1
+    ],
+    [
+      "Pisici/Patient 40/8021b014",
+      1
+    ],
+    [
+      "Catei/Patient 70/1f87e43c",
+      0
+    ],
+    [
+      "Catei/Patient 70/1f88589c",
+      0
+    ],
+    [
+      "Catei/Patient 70/1f88cd11",
+      0
+    ],
+    [
+      "Catei/Patient 70/1f894171",
+      0
+    ],
+    [
+      "Catei/Patient 70/1f89b5d1",
+      0
+    ],
+    [
+      "Pisici/Patient 75/50fc859e",
+      1
+    ],
+    [
+      "Pisici/Patient 75/50fcf9fe",
+      1
+    ],
+    [
+      "Pisici/Patient 75/50fd6e73",
+      1
+    ],
+    [
+      "Catei/Patient 73/bef0a8cc",
+      0
+    ],
+    [
+      "Catei/Patient 73/bef11d2c",
+      0
+    ],
+    [
+      "Catei/Patient 73/bef191a1",
+      0
+    ],
+    [
+      "Catei/Patient 90/9bfbc5b4",
+      0
+    ],
+    [
+      "Catei/Patient 90/9bfc3a14",
+      0
+    ],
+    [
+      "Catei/Patient 60/2c44543",
+      0
+    ],
+    [
+      "Catei/Patient 60/2c4b9a3",
+      0
+    ],
+    [
+      "Catei/Patient 80/f1d8fd99",
+      0
+    ],
+    [
+      "Catei/Patient 80/f1d971f9",
+      0
+    ],
+    [
+      "Catei/Patient 80/f1d9e66e",
+      0
+    ],
+    [
+      "Catei/Patient 53/11b79c67",
+      0
+    ],
+    [
+      "Catei/Patient 53/1a3fd782",
+      0
+    ],
+    [
+      "Pisici/Patient 39/3988ed0a",
+      1
+    ],
+    [
+      "Pisici/Patient 39/3989616a",
+      1
+    ],
+    [
+      "Pisici/Patient 4/cbd5e1f8",
+      1
+    ],
+    [
+      "Pisici/Patient 4/cbd65658",
+      1
+    ],
+    [
+      "Pisici/Patient 15/78d83ecf",
+      1
+    ],
+    [
+      "Pisici/Patient 15/78d8b32f",
+      1
+    ],
+    [
+      "Pisici/Patient 82/6f67057f",
+      1
+    ],
+    [
+      "Pisici/Patient 82/6f6779df",
+      1
+    ],
+    [
+      "Pisici/Patient 82/6f67ee54",
+      1
+    ],
+    [
+      "Catei/Patient 25/91e8ef7f",
+      0
+    ],
+    [
+      "Catei/Patient 25/91e963df",
+      0
+    ],
+    [
+      "Catei/Patient 52/54fc2d03",
+      0
+    ],
+    [
+      "Catei/Patient 52/54fca163",
+      0
+    ],
+    [
+      "Catei/Patient 52/54fd15d8",
+      0
+    ],
+    [
+      "Catei/Patient 52/54fd8a38",
+      0
+    ],
+    [
+      "Catei/Patient 52/54fdfe98",
+      0
+    ],
+    [
+      "Pisici/Patient 2/a99eacce",
+      1
+    ],
+    [
+      "Pisici/Patient 2/a99f212e",
+      1
+    ],
+    [
+      "Pisici/Patient 2/a99f95a3",
+      1
+    ],
+    [
+      "Pisici/Patient 2/a9a00a03",
+      1
+    ],
+    [
+      "Catei/Patient 9/53df797",
+      0
+    ],
+    [
+      "Catei/Patient 9/53e6bf7",
+      0
+    ],
+    [
+      "Catei/Patient 9/53ee06c",
+      0
+    ],
+    [
+      "Catei/Patient 84/3df1188c",
+      0
+    ],
+    [
+      "Catei/Patient 84/3df18cec",
+      0
+    ],
+    [
+      "Catei/Patient 84/3df20161",
+      0
+    ],
+    [
+      "Catei/Patient 84/3df275c1",
+      0
+    ],
+    [
+      "Catei/Patient 84/3df2ea21",
+      0
+    ],
+    [
+      "Catei/Patient 84/b3dcd995",
+      0
+    ],
+    [
+      "Catei/Patient 84/b3dd4df5",
+      0
+    ],
+    [
+      "Catei/Patient 84/b3ddc26a",
+      0
+    ],
+    [
+      "Catei/Patient 84/b3de36ca",
+      0
+    ],
+    [
+      "Catei/Patient 84/b3deab2a",
+      0
+    ],
+    [
+      "Catei/Patient 100/818fcd",
+      0
+    ],
+    [
+      "Catei/Patient 100/82042d",
+      0
+    ],
+    [
+      "Catei/Patient 100/8278a2",
+      0
+    ],
+    [
+      "Catei/Patient 100/82ed02",
+      0
+    ],
+    [
+      "Pisici/Patient 83/57785a83",
+      1
+    ],
+    [
+      "Pisici/Patient 83/5778cee3",
+      1
+    ],
+    [
+      "Pisici/Patient 34/5811c4ab",
+      1
+    ],
+    [
+      "Pisici/Patient 34/b0625411",
+      1
+    ],
+    [
+      "Catei/Patient 24/cfa4e92a",
+      0
+    ],
+    [
+      "Catei/Patient 24/cfa55d8a",
+      0
+    ]
+  ],
+  "patients": {
+    "train": [
+      "Catei/Patient 36",
+      "Pisici/Patient 84",
+      "Catei/Patient 57",
+      "Catei/Patient 102",
+      "Pisici/Patient 38",
+      "Catei/Patient 8",
+      "Catei/Patient 34",
+      "Catei/Patient 67",
+      "Catei/Patient 16",
+      "Catei/Patient 83",
+      "Catei/Patient 82",
+      "Pisici/Patient 80",
+      "Catei/Patient 21",
+      "Catei/Patient 14",
+      "Catei/Patient 44",
+      "Pisici/Patient 21",
+      "Catei/Patient 18",
+      "Pisici/Patient 25",
+      "Pisici/Patient 61",
+      "Catei/Patient 55",
+      "Catei/Patient 47",
+      "Catei/Patient 41",
+      "Pisici/Patient 41",
+      "Catei/Patient 38",
+      "Catei/Patient 66",
+      "Pisici/Patient 14",
+      "Catei/Patient 74",
+      "Pisici/Patient 8 ",
+      "Catei/Patient 42",
+      "Pisici/Patient 59",
+      "Catei/Patient 12",
+      "Pisici/Patient 9",
+      "Catei/Patient 22",
+      "Catei/Patient 30",
+      "Pisici/Patient 22",
+      "Catei/Patient 5",
+      "Catei/Patient 59",
+      "Catei/Patient 91",
+      "Pisici/Patient 3",
+      "Catei/Patient 103",
+      "Pisici/Patient 73",
+      "Catei/Patient 45",
+      "Catei/Patient 28",
+      "Pisici/Patient 26",
+      "Catei/Patient 7",
+      "Catei/Patient 51",
+      "Catei/Patient 4",
+      "Catei/Patient 76",
+      "Pisici/Patient 28",
+      "Pisici/Patient 23",
+      "Pisici/Patient 18",
+      "Catei/Patient 11",
+      "Catei/Patient 62",
+      "Pisici/Patient 35",
+      "Catei/Patient 63",
+      "Catei/Patient 48",
+      "Pisici/Patient 51",
+      "Catei/Patient 86",
+      "Catei/Patient 6",
+      "Catei/Patient 35",
+      "Pisici/Patient 72",
+      "Catei/Patient 72",
+      "Pisici/Patient 43",
+      "Catei/Patient 81",
+      "Catei/Patient 64",
+      "Catei/Patient 50",
+      "Pisici/Patient 63",
+      "Catei/Patient 61",
+      "Catei/Patient 97",
+      "Pisici/Patient 6",
+      "Catei/Patient 26",
+      "Catei/Patient 33",
+      "Pisici/Patient 53",
+      "Pisici/Patient 7",
+      "Pisici/Patient 66",
+      "Pisici/Patient 78",
+      "Catei/Patient 10",
+      "Pisici/Patient 56",
+      "Catei/Patient 29",
+      "Pisici/Patient 77",
+      "Catei/Patient 79",
+      "Pisici/Patient 36",
+      "Pisici/Patient 45",
+      "Pisici/Patient 52",
+      "Pisici/Patient 17",
+      "Catei/Patient 46",
+      "Pisici/Patient 31",
+      "Catei/Patient 1",
+      "Catei/Patient 56",
+      "Catei/Patient 3",
+      "Pisici/Patient 33",
+      "Catei/Patient 15",
+      "Pisici/Patient 30",
+      "Catei/Patient 43",
+      "Pisici/Patient 1",
+      "Catei/Patient 96",
+      "Catei/Patient 39",
+      "Pisici/Patient 67",
+      "Catei/Patient 78",
+      "Pisici/Patient 54",
+      "Catei/Patient 40",
+      "Pisici/Patient 11",
+      "Catei/Patient 23",
+      "Pisici/Patient 27",
+      "Catei/Patient 94",
+      "Pisici/Patient 62",
+      "Catei/Patient 17",
+      "Catei/Patient 65",
+      "Pisici/Patient 57",
+      "Catei/Patient 101",
+      "Pisici/Patient 50",
+      "Pisici/Patient 5",
+      "Pisici/Patient 79",
+      "Catei/Patient 95",
+      "Catei/Patient 69",
+      "Pisici/Patient 10",
+      "Pisici/Patient 64",
+      "Pisici/Patient 68",
+      "Pisici/Patient 76",
+      "Pisici/Patient 24",
+      "Pisici/Patient 55",
+      "Pisici/Patient 20",
+      "Pisici/Patient 58",
+      "Catei/Patient 13",
+      "Catei/Patient 49",
+      "Pisici/Patient 71",
+      "Catei/Patient 54",
+      "Pisici/Patient 32",
+      "Pisici/Patient 70",
+      "Catei/Patient 31"
+    ],
+    "val": [
+      "Catei/Patient 37",
+      "Pisici/Patient 19",
+      "Catei/Patient 32",
+      "Catei/Patient 68",
+      "Catei/Patient 98",
+      "Pisici/Patient 48",
+      "Pisici/Patient 42",
+      "Pisici/Patient 47",
+      "Catei/Patient 75",
+      "Catei/Patient 2",
+      "Catei/Patient 71",
+      "Catei/Patient 88",
+      "Catei/Patient 89",
+      "Pisici/Patient 81",
+      "Pisici/Patient 37",
+      "Catei/Patient 77",
+      "Catei/Patient 87",
+      "Catei/Patient 93",
+      "Pisici/Patient 12",
+      "Pisici/Patient 44",
+      "Catei/Patient 20",
+      "Pisici/Patient 65",
+      "Catei/Patient 92",
+      "Pisici/Patient 29",
+      "Pisici/Patient 60",
+      "Catei/Patient 58",
+      "Pisici/Patient 69",
+      "Pisici/Patient 49"
+    ],
+    "test": [
+      "Catei/Patient 19",
+      "Pisici/Patient 13",
+      "Pisici/Patient 16",
+      "Pisici/Patient 46",
+      "Catei/Patient 27",
+      "Catei/Patient 85",
+      "Catei/Patient 99",
+      "Pisici/Patient 74",
+      "Pisici/Patient 40",
+      "Catei/Patient 70",
+      "Pisici/Patient 75",
+      "Catei/Patient 73",
+      "Catei/Patient 90",
+      "Catei/Patient 60",
+      "Catei/Patient 80",
+      "Catei/Patient 53",
+      "Pisici/Patient 39",
+      "Pisici/Patient 4",
+      "Pisici/Patient 15",
+      "Pisici/Patient 82",
+      "Catei/Patient 25",
+      "Catei/Patient 52",
+      "Pisici/Patient 2",
+      "Catei/Patient 9",
+      "Catei/Patient 84",
+      "Catei/Patient 100",
+      "Pisici/Patient 83",
+      "Pisici/Patient 34",
+      "Catei/Patient 24"
+    ]
+  },
+  "path_format": "relative_to_data_root",
+  "data_root_layout": {
+    "cats_dir": "Pisici",
+    "dogs_dir": "Catei"
+  }
+}

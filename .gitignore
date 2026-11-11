@@ -1,0 +1,30 @@
+# DICOM-derived caches (regenerated from --data_root)
+cache_dicom_uint8*/
+*.npy
+
+# Training outputs and checkpoints
+results*/
+results_*/
+*.pt
+*.pth
+*.ckpt
+
+# Local experiment outputs
+examples/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Large or local-only artifacts
+*.dcm
+splits.json

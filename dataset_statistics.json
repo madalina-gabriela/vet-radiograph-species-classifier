@@ -1,0 +1,17 @@
+{
+  "data_root": "<set via --data_root>",
+  "cats_dir": "Pisici",
+  "dogs_dir": "Catei",
+  "by_class": {
+    "dog": {
+      "patients": 103,
+      "dicom_images": 366
+    },
+    "cat": {
+      "patients": 84,
+      "dicom_images": 226
+    }
+  },
+  "total_patients": 187,
+  "total_dicom_images": 592
+}
