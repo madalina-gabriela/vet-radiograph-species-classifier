@@ -64,7 +64,7 @@ Checkpoints (`*.pt`) are **not** shipped with the repo; train locally or request
 
 ## External validation
 
-The published feasibility study **does not include external multi-center validation** (data sharing and governance constraints). Pilot scripts for external JPEG validation were **removed** from this repository to avoid contradicting the manuscript; internal held-out testing only.
+The published feasibility study **does not include external multi-center validation**.
 
 ## Ethics and data use
 
@@ -76,4 +76,4 @@ If you use this code, cite the associated BioMedInformatics manuscript (species 
 
 ## License
 
-Code is provided for research reproducibility. Add a `LICENSE` file before public release if your institution requires a specific license (e.g. MIT, Apache-2.0).
+Code is provided for research reproducibility.
