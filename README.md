@@ -62,7 +62,7 @@ Radiographs were collected under third-party hospital governance. Do not redistr
 
 ## Citation
 
-If you use this code, cite the associated *Frontiers in Veterinary Science* manuscript (species classification feasibility study, patient-level validation).
+If you use this code, cite the associated BioMedInformatics manuscript (species classification feasibility study, patient-level validation).
 
 ## License
 
