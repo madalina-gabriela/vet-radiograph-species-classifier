@@ -7,7 +7,7 @@ PyTorch code for patient-level train/validation/test splits, DICOM preprocessing
 ```
 data_root/
   Pisici/          # cats (label 1)
-    Patient <id>/<instance_uid>
+    Patient <id>/<instance_uid>   # local hospital layout (not renamed)
   Catei/           # dogs (label 0)
     Patient <id>/<instance_uid>
 ```
@@ -22,14 +22,18 @@ pip install -r requirements.txt
 
 Install CPU or CUDA builds of PyTorch from [pytorch.org](https://pytorch.org) if the defaults above do not match your hardware.
 
+OpenCV (`opencv-python-headless`) is required for experiment **M6** (offline CLAHE).
+
+Optional (manuscript tables only): `pip install python-docx`
+
 ## Splits
 
-`splits_vet_dataset_patient.json` is a **fixed patient-level split** (seed 42) for reproducibility. Paths are **relative to `--data_root`**.
+`splits_vet_dataset_patient.json` is a **fixed patient-level split** (seed 42) for reproducibility.
 
-- 592 images, 187 patients (paper cohort)
-- train / val / test defined at patient level
+- Paths in the JSON are **anonymized** (`pt_*` / `im_*` SHA-256 codes), not raw patient numbers or DICOM instance UIDs.
+- At runtime, paths are mapped to files under `--data_root` via `dataset_utils.build_path_lookup()` (your on-disk folder names stay unchanged).
 
-If the split file does not match your local tree, training scripts regenerate splits (same logic) when you pass a writable `--splits_file`.
+If the split file does not match your local tree, training scripts can regenerate splits (same logic) when you pass a writable `--splits_file` (saved anonymized by default).
 
 ## Training (main comparison pipeline)
 
@@ -53,12 +57,18 @@ Legacy ResNet-only script: `train_catdog.py`. DenseNet baseline: `train_densenet
 | `compare_inference_statistics.py` | Bootstrap / McNemar across runs |
 | `plot_comparison_models.py` | Bar charts from `metrics.json` |
 | `analyze_test_patient_errors.py` | Cross-model patient error table |
+| `export_table_dataset_demographics.py` | Demographics table from `dataset_statistics.json` |
+| `export_table_test_metrics.py` | Test metrics table from `metrics.json` |
 
 Checkpoints (`*.pt`) are **not** shipped with the repo; train locally or request weights from the authors per journal policy.
 
+## External validation
+
+The published feasibility study **does not include external multi-center validation** (data sharing and governance constraints). Pilot scripts for external JPEG validation were **removed** from this repository to avoid contradicting the manuscript; internal held-out testing only.
+
 ## Ethics and data use
 
-Radiographs were collected under third-party hospital governance. Do not redistribute DICOM or derived caches publicly. This repository contains **code and split definitions only**.
+Radiographs were collected under third-party hospital governance. Do not redistribute DICOM or derived caches publicly. This repository contains **code and anonymized split definitions only**.
 
 ## Citation
 

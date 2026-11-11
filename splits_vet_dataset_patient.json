@@ -2,2576 +2,2573 @@
   "split_level": "patient",
   "train": [
     [
-      "Catei/Patient 36/cd333e78",
+      "Catei/pt_ed3fd2f9cc733244/im_8a5ae9b11a6990a2",
       0
     ],
     [
-      "Catei/Patient 36/cee81717",
+      "Catei/pt_ed3fd2f9cc733244/im_5155555e7f2f7dde",
       0
     ],
     [
-      "Catei/Patient 36/e5f50dfd",
+      "Catei/pt_ed3fd2f9cc733244/im_97e598f761858a31",
       0
     ],
     [
-      "Pisici/Patient 84/88b7ab3f",
+      "Pisici/pt_76d1e2d5a9033b8e/im_ba99bb0d6305795a",
       1
     ],
     [
-      "Pisici/Patient 84/88b81f9f",
+      "Pisici/pt_76d1e2d5a9033b8e/im_3e86be543de148de",
       1
     ],
     [
-      "Pisici/Patient 84/88b89414",
+      "Pisici/pt_76d1e2d5a9033b8e/im_9ccd28aace344f42",
       1
     ],
     [
-      "Pisici/Patient 84/88b90874",
+      "Pisici/pt_76d1e2d5a9033b8e/im_d2c604edd56ba553",
       1
     ],
     [
-      "Pisici/Patient 84/d36804c5",
+      "Pisici/pt_76d1e2d5a9033b8e/im_f679d7813a132175",
       1
     ],
     [
-      "Pisici/Patient 84/d6cc9e3",
+      "Pisici/pt_76d1e2d5a9033b8e/im_c6d0c02610319a3f",
       1
     ],
     [
-      "Pisici/Patient 84/d6d1b603",
+      "Pisici/pt_76d1e2d5a9033b8e/im_090ae54b45fd56d2",
       1
     ],
     [
-      "Pisici/Patient 84/d8868ea2",
+      "Pisici/pt_76d1e2d5a9033b8e/im_0e8f0e0dd9846320",
       1
     ],
     [
-      "Pisici/Patient 84/dbf03fe0",
+      "Pisici/pt_76d1e2d5a9033b8e/im_8a1142ced3d94800",
       1
     ],
     [
-      "Catei/Patient 57/4773005c",
+      "Catei/pt_a597a4ed66435484/im_19450ed59b67b0bf",
       0
     ],
     [
-      "Catei/Patient 57/477374bc",
+      "Catei/pt_a597a4ed66435484/im_225cfb7bb5598545",
       0
     ],
     [
-      "Catei/Patient 57/4773e931",
+      "Catei/pt_a597a4ed66435484/im_485eb121a865dcfd",
       0
     ],
     [
-      "Catei/Patient 102/5ebd5c3b",
+      "Catei/pt_f7b41681ae340fe2/im_374c0342f3cbd41b",
       0
     ],
     [
-      "Catei/Patient 102/68f7b5a0",
+      "Catei/pt_f7b41681ae340fe2/im_a60d734fda71dd61",
       0
     ],
     [
-      "Pisici/Patient 38/5769466c",
+      "Pisici/pt_e1e87ca159d98991/im_896cd44e9286acdc",
       1
     ],
     [
-      "Pisici/Patient 38/5769bacc",
+      "Pisici/pt_e1e87ca159d98991/im_0d1ebf5006b42e65",
       1
     ],
     [
-      "Pisici/Patient 38/f4b3669",
+      "Pisici/pt_e1e87ca159d98991/im_4b8e24c4d890a8a3",
       1
     ],
     [
-      "Catei/Patient 8/4299042d",
+      "Catei/pt_42442bdef7b8083c/im_3c25e1841f50ab64",
       0
     ],
     [
-      "Catei/Patient 8/48afea64",
+      "Catei/pt_42442bdef7b8083c/im_ea0026c4f742c569",
       0
     ],
     [
-      "Catei/Patient 8/9847d082",
+      "Catei/pt_42442bdef7b8083c/im_9d406ddaf58be2a1",
       0
     ],
     [
-      "Catei/Patient 8/c4880738",
+      "Catei/pt_42442bdef7b8083c/im_5fc2ec810556eff2",
       0
     ],
     [
-      "Catei/Patient 8/ca977f88",
+      "Catei/pt_42442bdef7b8083c/im_9f6281431df2254b",
       0
     ],
     [
-      "Catei/Patient 34/2daa99c8",
+      "Catei/pt_c7242ad6cba6ffd1/im_3338d3d362ee7f3c",
       0
     ],
     [
-      "Catei/Patient 34/2dab0e28",
+      "Catei/pt_c7242ad6cba6ffd1/im_f57516c07727db5a",
       0
     ],
     [
-      "Catei/Patient 34/2dab829d",
+      "Catei/pt_c7242ad6cba6ffd1/im_b039a6df034e8e41",
       0
     ],
     [
-      "Catei/Patient 34/2dabf6fd",
+      "Catei/pt_c7242ad6cba6ffd1/im_cd1d440ca5db84fd",
       0
     ],
     [
-      "Catei/Patient 34/2dac6b5d",
+      "Catei/pt_c7242ad6cba6ffd1/im_0deb9e6ab88de1e3",
       0
     ],
     [
-      "Catei/Patient 67/38d6aee4",
+      "Catei/pt_a2872af179c60fae/im_3d8fa2073869d545",
       0
     ],
     [
-      "Catei/Patient 67/38d72344",
+      "Catei/pt_a2872af179c60fae/im_719904e80bc9cb4f",
       0
     ],
     [
-      "Catei/Patient 16/b5035016",
+      "Catei/pt_5ce4effd87dc64c2/im_a175cba6a4748ba3",
       0
     ],
     [
-      "Catei/Patient 16/b503c476",
+      "Catei/pt_5ce4effd87dc64c2/im_d84c2ab7f3f5c260",
       0
     ],
     [
-      "Catei/Patient 83/13b361eb",
+      "Catei/pt_daa35320cd295192/im_25e411c7ab30dd16",
       0
     ],
     [
-      "Catei/Patient 83/13b3d64b",
+      "Catei/pt_daa35320cd295192/im_d8cb7819e18feaab",
       0
     ],
     [
-      "Catei/Patient 83/13b44ac0",
+      "Catei/pt_daa35320cd295192/im_99989064926f2851",
       0
     ],
     [
-      "Catei/Patient 83/13b4bf20",
+      "Catei/pt_daa35320cd295192/im_cf17f780c77af93a",
       0
     ],
     [
-      "Catei/Patient 83/13b53380",
+      "Catei/pt_daa35320cd295192/im_f7addd5d5306ee7d",
       0
     ],
     [
-      "Catei/Patient 83/13b5a7e0",
+      "Catei/pt_daa35320cd295192/im_1aaccc17b9e0dad5",
       0
     ],
     [
-      "Catei/Patient 83/13b61c40",
+      "Catei/pt_daa35320cd295192/im_1ffbe8398a59975b",
       0
     ],
     [
-      "Catei/Patient 82/11fe894c",
+      "Catei/pt_abf20f50079c54b8/im_58110731ddee4b1a",
       0
     ],
     [
-      "Catei/Patient 82/11fefdac",
+      "Catei/pt_abf20f50079c54b8/im_149f73d152491043",
       0
     ],
     [
-      "Catei/Patient 82/11ff7221",
+      "Catei/pt_abf20f50079c54b8/im_466ef5a733b4e740",
       0
     ],
     [
-      "Catei/Patient 82/356d6eba",
+      "Catei/pt_abf20f50079c54b8/im_5cacad8fec428c0f",
       0
     ],
     [
-      "Catei/Patient 82/8d08d432",
+      "Catei/pt_abf20f50079c54b8/im_b2c4b9ccb5adba25",
       0
     ],
     [
-      "Catei/Patient 82/8d094892",
+      "Catei/pt_abf20f50079c54b8/im_15fd57d828e16edd",
       0
     ],
     [
-      "Catei/Patient 82/8d09bd07",
+      "Catei/pt_abf20f50079c54b8/im_f51ef3d3fc66331c",
       0
     ],
     [
-      "Pisici/Patient 80/28e7e6a1",
+      "Pisici/pt_98777f01425671a6/im_55040c6cb6e44736",
       1
     ],
     [
-      "Pisici/Patient 80/28e85b01",
+      "Pisici/pt_98777f01425671a6/im_742ba074aa6ebb8c",
       1
     ],
     [
-      "Pisici/Patient 80/c2b65065",
+      "Pisici/pt_98777f01425671a6/im_4d77f16a159bb104",
       1
     ],
     [
-      "Pisici/Patient 80/c2b6c4c5",
+      "Pisici/pt_98777f01425671a6/im_5a242ea393264c51",
       1
     ],
     [
-      "Catei/Patient 21/3d729b03",
+      "Catei/pt_9eafe497d69dba30/im_7d6366847c09c14d",
       0
     ],
     [
-      "Catei/Patient 21/3d730f63",
+      "Catei/pt_9eafe497d69dba30/im_7473783a2ac6f8e4",
       0
     ],
     [
-      "Catei/Patient 21/3d7383d8",
+      "Catei/pt_9eafe497d69dba30/im_de2c5e1c85239596",
       0
     ],
     [
-      "Catei/Patient 21/3d73f838",
+      "Catei/pt_9eafe497d69dba30/im_fa7d2e918e4987cd",
       0
     ],
     [
-      "Catei/Patient 21/b708a3c0",
+      "Catei/pt_9eafe497d69dba30/im_05b7c88ec5d25f34",
       0
     ],
     [
-      "Catei/Patient 21/dffcf2a8",
+      "Catei/pt_9eafe497d69dba30/im_6f76079bae95d36d",
       0
     ],
     [
-      "Catei/Patient 14/55283677",
+      "Catei/pt_b27745023bb4f753/im_271647fea3cc217d",
       0
     ],
     [
-      "Catei/Patient 14/5528aad7",
+      "Catei/pt_b27745023bb4f753/im_bbe51581f91fa4cc",
       0
     ],
     [
-      "Catei/Patient 44/d435d887",
+      "Catei/pt_f58e7f89daffe1e8/im_62b385542c423161",
       0
     ],
     [
-      "Catei/Patient 44/d4364ce7",
+      "Catei/pt_f58e7f89daffe1e8/im_05288b94f9457214",
       0
     ],
     [
-      "Catei/Patient 44/d436c15c",
+      "Catei/pt_f58e7f89daffe1e8/im_6d68b54b2f62388e",
       0
     ],
     [
-      "Catei/Patient 44/d43735bc",
+      "Catei/pt_f58e7f89daffe1e8/im_c5aae7d4b07183a3",
       0
     ],
     [
-      "Catei/Patient 44/d437aa1c",
+      "Catei/pt_f58e7f89daffe1e8/im_09a34192cc1a622d",
       0
     ],
     [
-      "Pisici/Patient 21/1bf54426",
+      "Pisici/pt_8b7596bcc5b5417c/im_9669a62fc09d64da",
       1
     ],
     [
-      "Pisici/Patient 21/1bf62cfb",
+      "Pisici/pt_8b7596bcc5b5417c/im_a7ebdf417f2c5d6e",
       1
     ],
     [
-      "Catei/Patient 18/5b6958f7",
+      "Catei/pt_7c11ac92b52e04dd/im_31e49ca0b7f239c0",
       0
     ],
     [
-      "Catei/Patient 18/5b69cd57",
+      "Catei/pt_7c11ac92b52e04dd/im_06eb028c44992ec8",
       0
     ],
     [
-      "Pisici/Patient 25/dd43b35b",
+      "Pisici/pt_02a8ab06368b5a10/im_9f564d5c26fffc54",
       1
     ],
     [
-      "Pisici/Patient 25/dd4427d0",
+      "Pisici/pt_02a8ab06368b5a10/im_662db107cf101344",
       1
     ],
     [
-      "Pisici/Patient 61/6fc8b67e",
+      "Pisici/pt_0961e528204be8ac/im_66f1f2ce1ee8814d",
       1
     ],
     [
-      "Pisici/Patient 61/6fc92ade",
+      "Pisici/pt_0961e528204be8ac/im_84aab03d78bd919e",
       1
     ],
     [
-      "Pisici/Patient 61/e5b47787",
+      "Pisici/pt_0961e528204be8ac/im_748d9b8b044665f1",
       1
     ],
     [
-      "Catei/Patient 55/33a4d60d",
+      "Catei/pt_288600a15c20e2fc/im_6fc8b70bf7e0a1b2",
       0
     ],
     [
-      "Catei/Patient 55/33a54a6d",
+      "Catei/pt_288600a15c20e2fc/im_68ae170fb7b07f65",
       0
     ],
     [
-      "Catei/Patient 55/33a5bee2",
+      "Catei/pt_288600a15c20e2fc/im_1384264772366b67",
       0
     ],
     [
-      "Catei/Patient 47/4c65b2d4",
+      "Catei/pt_702db1c1f0c4690c/im_4be141d1a3016be0",
       0
     ],
     [
-      "Catei/Patient 47/4c662734",
+      "Catei/pt_702db1c1f0c4690c/im_f15b84b882aa7765",
       0
     ],
     [
-      "Catei/Patient 47/92ca58ef",
+      "Catei/pt_702db1c1f0c4690c/im_1b5b6e98b053815b",
       0
     ],
     [
-      "Catei/Patient 47/92cacd4f",
+      "Catei/pt_702db1c1f0c4690c/im_fc60ae30ae0da768",
       0
     ],
     [
-      "Catei/Patient 47/92cb41c4",
+      "Catei/pt_702db1c1f0c4690c/im_f67879efcb4c4723",
       0
     ],
     [
-      "Catei/Patient 47/92cbb624",
+      "Catei/pt_702db1c1f0c4690c/im_9843170a184745f7",
       0
     ],
     [
-      "Catei/Patient 41/90a51f29",
+      "Catei/pt_6b636f435bbfc4a2/im_fa92036735c73f86",
       0
     ],
     [
-      "Catei/Patient 41/90a59389",
+      "Catei/pt_6b636f435bbfc4a2/im_79ce0df28b6484f7",
       0
     ],
     [
-      "Catei/Patient 41/90a607fe",
+      "Catei/pt_6b636f435bbfc4a2/im_7ac11d2908113a5d",
       0
     ],
     [
-      "Catei/Patient 41/90a67c5e",
+      "Catei/pt_6b636f435bbfc4a2/im_b213355c4e817b24",
       0
     ],
     [
-      "Pisici/Patient 41/1d207f89",
+      "Pisici/pt_8384d962ba6fb190/im_eed16f794e4cb235",
       1
     ],
     [
-      "Pisici/Patient 41/1d20f3e9",
+      "Pisici/pt_8384d962ba6fb190/im_d9acc037388c02c7",
       1
     ],
     [
-      "Pisici/Patient 41/1d21685e",
+      "Pisici/pt_8384d962ba6fb190/im_1330f588b32a64a0",
       1
     ],
     [
-      "Catei/Patient 38/155a3dcd",
+      "Catei/pt_00d90065c2cd8f8f/im_974c0b5a08f89a06",
       0
     ],
     [
-      "Catei/Patient 38/1f975187",
+      "Catei/pt_00d90065c2cd8f8f/im_27e2536f8f79de72",
       0
     ],
     [
-      "Catei/Patient 38/1f97c5e7",
+      "Catei/pt_00d90065c2cd8f8f/im_585014cc7ecd834c",
       0
     ],
     [
-      "Catei/Patient 66/5da0afaf",
+      "Catei/pt_ac2e4f03ea2a6b2d/im_acc438d54f2b5048",
       0
     ],
     [
-      "Catei/Patient 66/5da1240f",
+      "Catei/pt_ac2e4f03ea2a6b2d/im_971455d314b0ffdd",
       0
     ],
     [
-      "Catei/Patient 66/5da19884",
+      "Catei/pt_ac2e4f03ea2a6b2d/im_7575d1c778167410",
       0
     ],
     [
-      "Pisici/Patient 14/7fdf5411",
+      "Pisici/pt_6514bf59da477881/im_347978cf33b3a88d",
       1
     ],
     [
-      "Pisici/Patient 14/7fdfc871",
+      "Pisici/pt_6514bf59da477881/im_c3c2f2736384a8e7",
       1
     ],
     [
-      "Pisici/Patient 14/7fe03ce6",
+      "Pisici/pt_6514bf59da477881/im_956dcc9409ddd93c",
       1
     ],
     [
-      "Catei/Patient 74/be8537e6",
+      "Catei/pt_b396db2727ce3773/im_f50f6dde6a595a89",
       0
     ],
     [
-      "Catei/Patient 74/be85ac46",
+      "Catei/pt_b396db2727ce3773/im_21be083acb04eacb",
       0
     ],
     [
-      "Pisici/Patient 8 /56157d7d",
+      "Pisici/pt_6fedd1a8baa91698/im_2e0c5298608c1253",
       1
     ],
     [
-      "Pisici/Patient 8 /56166652",
+      "Pisici/pt_6fedd1a8baa91698/im_f1cbab901ffb2dd1",
       1
     ],
     [
-      "Pisici/Patient 8 /5616dab2",
+      "Pisici/pt_6fedd1a8baa91698/im_525c933957b1ef24",
       1
     ],
     [
-      "Catei/Patient 42/6f5fa5d2",
+      "Catei/pt_b4720da2e7aa16a7/im_54422ecb19576727",
       0
     ],
     [
-      "Catei/Patient 42/6f601a32",
+      "Catei/pt_b4720da2e7aa16a7/im_e8e1cbb4e2354c22",
       0
     ],
     [
-      "Catei/Patient 42/6f608ea7",
+      "Catei/pt_b4720da2e7aa16a7/im_8890cb2a86ec34cf",
       0
     ],
     [
-      "Catei/Patient 42/6f610307",
+      "Catei/pt_b4720da2e7aa16a7/im_78308f1544863e0e",
       0
     ],
     [
-      "Pisici/Patient 59/cb3c88da",
+      "Pisici/pt_86088922d2152578/im_685cfc3630cc4a8c",
       1
     ],
     [
-      "Pisici/Patient 59/cb3cfd3a",
+      "Pisici/pt_86088922d2152578/im_5fab495576bb22b7",
       1
     ],
     [
-      "Pisici/Patient 59/cb3d71af",
+      "Pisici/pt_86088922d2152578/im_6eb75892660f0802",
       1
     ],
     [
-      "Catei/Patient 12/596842ac",
+      "Catei/pt_f74ee09fdeb7a231/im_9058677a4f867cdc",
       0
     ],
     [
-      "Catei/Patient 12/5968b70c",
+      "Catei/pt_f74ee09fdeb7a231/im_4b6e7f704ce513ae",
       0
     ],
     [
-      "Pisici/Patient 9/b56f1ff4",
+      "Pisici/pt_13715cd756f8ca38/im_1ef5e22956eb1b79",
       1
     ],
     [
-      "Pisici/Patient 9/b56f9454",
+      "Pisici/pt_13715cd756f8ca38/im_2c7eb4001a68c87f",
       1
     ],
     [
-      "Catei/Patient 22/3180aeaa",
+      "Catei/pt_a6febeb3609d6a97/im_a6d350df7815fdfe",
       0
     ],
     [
-      "Catei/Patient 22/3181230a",
+      "Catei/pt_a6febeb3609d6a97/im_94559025607fd4df",
       0
     ],
     [
-      "Catei/Patient 22/3181977f",
+      "Catei/pt_a6febeb3609d6a97/im_1993d59a89e4df14",
       0
     ],
     [
-      "Catei/Patient 22/31820bdf",
+      "Catei/pt_a6febeb3609d6a97/im_a903fb3c978f0e8b",
       0
     ],
     [
-      "Catei/Patient 22/3182f49f",
+      "Catei/pt_a6febeb3609d6a97/im_5e6b158d25d23c60",
       0
     ],
     [
-      "Catei/Patient 22/318368ff",
+      "Catei/pt_a6febeb3609d6a97/im_de26d520c90a551a",
       0
     ],
     [
-      "Catei/Patient 30/692c7965",
+      "Catei/pt_2b64a798c386029c/im_2230d58198d4de61",
       0
     ],
     [
-      "Catei/Patient 30/692cedc5",
+      "Catei/pt_2b64a798c386029c/im_6c9c1a3edd6c320c",
       0
     ],
     [
-      "Catei/Patient 30/692d623a",
+      "Catei/pt_2b64a798c386029c/im_207656e2a55c86e7",
       0
     ],
     [
-      "Pisici/Patient 22/be85578b",
+      "Pisici/pt_791ab87141c7753e/im_3b1bc6430c80ea6d",
       1
     ],
     [
-      "Pisici/Patient 22/be85cbeb",
+      "Pisici/pt_791ab87141c7753e/im_eea133c19e10320b",
       1
     ],
     [
-      "Catei/Patient 5/1ae01966",
+      "Catei/pt_4395830215ce29ac/im_2d186144b2df4bed",
       0
     ],
     [
-      "Catei/Patient 5/1c366614",
+      "Catei/pt_4395830215ce29ac/im_d074311c2dd62012",
       0
     ],
     [
-      "Catei/Patient 5/4c9c1240",
+      "Catei/pt_4395830215ce29ac/im_58dd24e277e693cf",
       0
     ],
     [
-      "Catei/Patient 5/61286b3a",
+      "Catei/pt_4395830215ce29ac/im_572d20476bb150e4",
       0
     ],
     [
-      "Catei/Patient 5/676dd6dc",
+      "Catei/pt_4395830215ce29ac/im_db8d252c222ef41d",
       0
     ],
     [
-      "Catei/Patient 5/70d4358",
+      "Catei/pt_4395830215ce29ac/im_415eb38e535afe40",
       0
     ],
     [
-      "Catei/Patient 5/938226a0",
+      "Catei/pt_4395830215ce29ac/im_4df5f14ccf8e8e01",
       0
     ],
     [
-      "Catei/Patient 5/a5be3d94",
+      "Catei/pt_4395830215ce29ac/im_21cebaa704accb00",
       0
     ],
     [
-      "Catei/Patient 5/fa167aa7",
+      "Catei/pt_4395830215ce29ac/im_5063616a562c1f52",
       0
     ],
     [
-      "Catei/Patient 59/842d235d",
+      "Catei/pt_c33ce82302006ac3/im_c231f48ecdd57ad9",
       0
     ],
     [
-      "Catei/Patient 59/842d97bd",
+      "Catei/pt_c33ce82302006ac3/im_475d08b87a72ba06",
       0
     ],
     [
-      "Catei/Patient 91/4f96938f",
+      "Catei/pt_7f5b7fc52bf43cf7/im_df99a947a802963e",
       0
     ],
     [
-      "Catei/Patient 91/4f9707ef",
+      "Catei/pt_7f5b7fc52bf43cf7/im_bb82a40e13b0412c",
       0
     ],
     [
-      "Catei/Patient 91/4f977c64",
+      "Catei/pt_7f5b7fc52bf43cf7/im_dd681ee2230d0146",
       0
     ],
     [
-      "Pisici/Patient 3/1.INTECH.2023.08.19.10.20.09.0.dcm",
+      "Pisici/pt_a9ec6281e91aacca/im_f3e8408c9c391e2a",
       1
     ],
     [
-      "Pisici/Patient 3/1.INTECH.2023.08.19.10.20.09.1.dcm",
+      "Pisici/pt_a9ec6281e91aacca/im_3909980a98bcdb23",
       1
     ],
     [
-      "Pisici/Patient 3/1.INTECH.2023.08.19.10.20.09.2.dcm",
+      "Pisici/pt_a9ec6281e91aacca/im_cae60191f98bd486",
       1
     ],
     [
-      "Pisici/Patient 3/1.INTECH.2023.08.19.10.20.09.3.dcm",
+      "Pisici/pt_a9ec6281e91aacca/im_7be02370e6ebde69",
       1
     ],
     [
-      "Pisici/Patient 3/1.INTECH.2023.08.19.10.20.09.4.dcm",
+      "Pisici/pt_a9ec6281e91aacca/im_ac7cc6f13a01150a",
       1
     ],
     [
-      "Catei/Patient 103/e9e9ea4f",
+      "Catei/pt_cdbfaac94e7ff73f/im_5097b415bc2c3587",
       0
     ],
     [
-      "Catei/Patient 103/e9ea5eaf",
+      "Catei/pt_cdbfaac94e7ff73f/im_5dbac02be6edfa74",
       0
     ],
     [
-      "Pisici/Patient 73/7a5446eb",
+      "Pisici/pt_fbfe5e92c1b110ea/im_e30fabbfd38d7163",
       1
     ],
     [
-      "Catei/Patient 45/c86f1d3e",
+      "Catei/pt_5067f16521b5df7b/im_4ba12f959ec7f072",
       0
     ],
     [
-      "Catei/Patient 45/c86f919e",
+      "Catei/pt_5067f16521b5df7b/im_35a509171888ec33",
       0
     ],
     [
-      "Catei/Patient 45/c8700613",
+      "Catei/pt_5067f16521b5df7b/im_747e6fe29f5e7d49",
       0
     ],
     [
-      "Catei/Patient 45/c8707a73",
+      "Catei/pt_5067f16521b5df7b/im_a9ac9ab82b6f818d",
       0
     ],
     [
-      "Catei/Patient 28/e010f700",
+      "Catei/pt_d88290615021b368/im_45c1a535eedf0321",
       0
     ],
     [
-      "Catei/Patient 28/e8356be7",
+      "Catei/pt_d88290615021b368/im_5776c8a47845ebe5",
       0
     ],
     [
-      "Catei/Patient 28/e835e047",
+      "Catei/pt_d88290615021b368/im_262ea192d15d1b29",
       0
     ],
     [
-      "Catei/Patient 28/e83654bc",
+      "Catei/pt_d88290615021b368/im_613eac8ccd8f3dbc",
       0
     ],
     [
-      "Catei/Patient 28/e836c91c",
+      "Catei/pt_d88290615021b368/im_3ff018e8edce030d",
       0
     ],
     [
-      "Pisici/Patient 26/24ed6c08",
+      "Pisici/pt_e233b07306c2aa75/im_ff16e6faead7c845",
       1
     ],
     [
-      "Pisici/Patient 26/24ede068",
+      "Pisici/pt_e233b07306c2aa75/im_eb92d57aeac47d1b",
       1
     ],
     [
-      "Catei/Patient 7/31237ee0",
+      "Catei/pt_062c980842250383/im_16a8f6e1bf3f3909",
       0
     ],
     [
-      "Catei/Patient 7/313bf3d0",
+      "Catei/pt_062c980842250383/im_9ad3a0c5e94f1692",
       0
     ],
     [
-      "Catei/Patient 7/6be2ab20",
+      "Catei/pt_062c980842250383/im_61d99b1d6ac8b86d",
       0
     ],
     [
-      "Catei/Patient 7/706c3dfc",
+      "Catei/pt_062c980842250383/im_38c2ba35c5729b3d",
       0
     ],
     [
-      "Catei/Patient 7/bfd5f73e",
+      "Catei/pt_062c980842250383/im_fa1f886cd71146a2",
       0
     ],
     [
-      "Catei/Patient 7/cec01baf",
+      "Catei/pt_062c980842250383/im_cfbd1f896a8fb720",
       0
     ],
     [
-      "Catei/Patient 7/e14d503b",
+      "Catei/pt_062c980842250383/im_09f8ad9354592844",
       0
     ],
     [
-      "Catei/Patient 7/e7a1c37f",
+      "Catei/pt_062c980842250383/im_7e045e5e71831e3e",
       0
     ],
     [
-      "Catei/Patient 51/22160065",
+      "Catei/pt_93602c3cac4641a5/im_3b6c02b9f57a6971",
       0
     ],
     [
-      "Catei/Patient 51/221674c5",
+      "Catei/pt_93602c3cac4641a5/im_dcd5ff9294718ea7",
       0
     ],
     [
-      "Catei/Patient 51/22175d9a",
+      "Catei/pt_93602c3cac4641a5/im_a2bfc5da27b205f4",
       0
     ],
     [
-      "Catei/Patient 51/2a9e3b80",
+      "Catei/pt_93602c3cac4641a5/im_f23443bd2c2b994b",
       0
     ],
     [
-      "Catei/Patient 51/2a9eafe0",
+      "Catei/pt_93602c3cac4641a5/im_da8e49f541103271",
       0
     ],
     [
-      "Catei/Patient 4/5ece4bda",
+      "Catei/pt_fa5bce8027e3a151/im_10a151548cfc846f",
       0
     ],
     [
-      "Catei/Patient 4/d9192b39",
+      "Catei/pt_fa5bce8027e3a151/im_064a808ddbab9b35",
       0
     ],
     [
-      "Catei/Patient 76/491e4502",
+      "Catei/pt_cf03d3a27129bad8/im_17cc981545b830fc",
       0
     ],
     [
-      "Catei/Patient 76/491eb962",
+      "Catei/pt_cf03d3a27129bad8/im_ac2deea19d4ab854",
       0
     ],
     [
-      "Catei/Patient 76/491f2dd7",
+      "Catei/pt_cf03d3a27129bad8/im_91215736147392b4",
       0
     ],
     [
-      "Pisici/Patient 28/57c3cd3f",
+      "Pisici/pt_e4f9baf8736ddc79/im_7faa60202fb193f1",
       1
     ],
     [
-      "Pisici/Patient 28/57c4419f",
+      "Pisici/pt_e4f9baf8736ddc79/im_54083ae89cdbce11",
       1
     ],
     [
-      "Pisici/Patient 28/57c52a74",
+      "Pisici/pt_e4f9baf8736ddc79/im_c43d08f5bd6d805f",
       1
     ],
     [
-      "Pisici/Patient 23/906c640e",
+      "Pisici/pt_51824a0ab0ad7759/im_e3ba9cd00bc596db",
       1
     ],
     [
-      "Pisici/Patient 23/906cd883",
+      "Pisici/pt_51824a0ab0ad7759/im_be0ad86650e45aa7",
       1
     ],
     [
-      "Pisici/Patient 18/5f9784f2",
+      "Pisici/pt_0f9d2b3237b66199/im_f984143e502014a1",
       1
     ],
     [
-      "Pisici/Patient 18/5f97f952",
+      "Pisici/pt_0f9d2b3237b66199/im_983070212607fc3b",
       1
     ],
     [
-      "Pisici/Patient 18/5f986dc7",
+      "Pisici/pt_0f9d2b3237b66199/im_99c3630d61986700",
       1
     ],
     [
-      "Catei/Patient 11/5ebaa1e6",
+      "Catei/pt_51022ed4525fd8db/im_1c8cb4dd83ac7a7b",
       0
     ],
     [
-      "Catei/Patient 11/5ebb1646",
+      "Catei/pt_51022ed4525fd8db/im_f1d23734398e2d95",
       0
     ],
     [
-      "Catei/Patient 11/5ebb8abb",
+      "Catei/pt_51022ed4525fd8db/im_555a7f496a8f3ab3",
       0
     ],
     [
-      "Catei/Patient 11/5ebbff1b",
+      "Catei/pt_51022ed4525fd8db/im_cdcc9a5ee94faace",
       0
     ],
     [
-      "Catei/Patient 11/5ebc737b",
+      "Catei/pt_51022ed4525fd8db/im_37b24b862017368f",
       0
     ],
     [
-      "Catei/Patient 11/5ebce7db",
+      "Catei/pt_51022ed4525fd8db/im_29e8c87300f5d7bd",
       0
     ],
     [
-      "Catei/Patient 62/b1dffb04",
+      "Catei/pt_dedc6c28b1a507b4/im_3b5fee4554e53811",
       0
     ],
     [
-      "Catei/Patient 62/b1e06f64",
+      "Catei/pt_dedc6c28b1a507b4/im_a24bf30eb07fb5b1",
       0
     ],
     [
-      "Catei/Patient 62/b1e0e3d9",
+      "Catei/pt_dedc6c28b1a507b4/im_bb12f5a7e0977f20",
       0
     ],
     [
-      "Catei/Patient 62/b1e15839",
+      "Catei/pt_dedc6c28b1a507b4/im_d4395b1a9db2e1a1",
       0
     ],
     [
-      "Pisici/Patient 35/51976c06",
+      "Pisici/pt_e88453bafbed6f60/im_7845f521a8432778",
       1
     ],
     [
-      "Pisici/Patient 35/c93805ae",
+      "Pisici/pt_e88453bafbed6f60/im_5a80555b4548f40e",
       1
     ],
     [
-      "Pisici/Patient 35/c9387a0e",
+      "Pisici/pt_e88453bafbed6f60/im_07e313a47f8de6ea",
       1
     ],
     [
-      "Catei/Patient 63/12e2a75a",
+      "Catei/pt_cebd84091c093257/im_407d8be8ade963b7",
       0
     ],
     [
-      "Catei/Patient 63/12e31bba",
+      "Catei/pt_cebd84091c093257/im_cd677ca6006aa13f",
       0
     ],
     [
-      "Catei/Patient 63/e9b0fd2b",
+      "Catei/pt_cebd84091c093257/im_f0624d65ba2bd9a9",
       0
     ],
     [
-      "Catei/Patient 63/e9b1718b",
+      "Catei/pt_cebd84091c093257/im_a531886f5f74abc8",
       0
     ],
     [
-      "Catei/Patient 48/86d31ec1",
+      "Catei/pt_0f8bf1bf29a844a7/im_ab27d18bfe087128",
       0
     ],
     [
-      "Catei/Patient 48/86d39321",
+      "Catei/pt_0f8bf1bf29a844a7/im_d83502390bbe63de",
       0
     ],
     [
-      "Pisici/Patient 51/f0c74f09",
+      "Pisici/pt_8becb0a0cab1d1d9/im_bebd9d2d863213d6",
       1
     ],
     [
-      "Catei/Patient 86/50bfc1f4",
+      "Catei/pt_7620dcc3b200513c/im_749df15c1525c0a4",
       0
     ],
     [
-      "Catei/Patient 86/50c03654",
+      "Catei/pt_7620dcc3b200513c/im_d53c855d0d0d24c7",
       0
     ],
     [
-      "Catei/Patient 86/50c0aac9",
+      "Catei/pt_7620dcc3b200513c/im_41b4b72edff344bd",
       0
     ],
     [
-      "Catei/Patient 86/50c11f29",
+      "Catei/pt_7620dcc3b200513c/im_8d4ac4585f2690e3",
       0
     ],
     [
-      "Catei/Patient 86/a6eb768c",
+      "Catei/pt_7620dcc3b200513c/im_2fe2ba7b9239c1fe",
       0
     ],
     [
-      "Catei/Patient 6/5cab26d8",
+      "Catei/pt_36ed6bc7a45e41f6/im_4d0504346790db73",
       0
     ],
     [
-      "Catei/Patient 6/a7ce1fc9",
+      "Catei/pt_36ed6bc7a45e41f6/im_47fd45b382e12e0d",
       0
     ],
     [
-      "Catei/Patient 6/f22ed4ee",
+      "Catei/pt_36ed6bc7a45e41f6/im_9d8b8bb8ffcd993a",
       0
     ],
     [
-      "Catei/Patient 35/52c9c68c",
+      "Catei/pt_08a345e297571ac4/im_7391bd3c90576e0c",
       0
     ],
     [
-      "Catei/Patient 35/52ca3aec",
+      "Catei/pt_08a345e297571ac4/im_4f757a18b5215693",
       0
     ],
     [
-      "Catei/Patient 35/52caaf61",
+      "Catei/pt_08a345e297571ac4/im_e0d5b3ab7d411926",
       0
     ],
     [
-      "Catei/Patient 35/52cb23c1",
+      "Catei/pt_08a345e297571ac4/im_0f7e29b851b6d04d",
       0
     ],
     [
-      "Catei/Patient 35/52cb9821",
+      "Catei/pt_08a345e297571ac4/im_fdde55b9f7c3d54a",
       0
     ],
     [
-      "Catei/Patient 35/52cc0c81",
+      "Catei/pt_08a345e297571ac4/im_36a3c4a5a89f573c",
       0
     ],
     [
-      "Pisici/Patient 72/604f1251",
+      "Pisici/pt_5f6e82856d10ffc3/im_9385732ccc60e371",
       1
     ],
     [
-      "Pisici/Patient 72/604f86b1",
+      "Pisici/pt_5f6e82856d10ffc3/im_0feaa4cfa7987b5a",
       1
     ],
     [
-      "Pisici/Patient 72/604ffb26",
+      "Pisici/pt_5f6e82856d10ffc3/im_b0f1ba0afd1db23a",
       1
     ],
     [
-      "Catei/Patient 72/26d717a7",
+      "Catei/pt_7597f439fae61bad/im_3793be44000bb8a2",
       0
     ],
     [
-      "Catei/Patient 72/a1e1628d",
+      "Catei/pt_7597f439fae61bad/im_b8a98ab0701fab3f",
       0
     ],
     [
-      "Pisici/Patient 43/b0d1aedd",
+      "Pisici/pt_a025ca628a9ccb3c/im_2236d03f52906847",
       1
     ],
     [
-      "Pisici/Patient 43/f76d9eb8",
+      "Pisici/pt_a025ca628a9ccb3c/im_e8f94d60a9c0c490",
       1
     ],
     [
-      "Pisici/Patient 43/f76e1318",
+      "Pisici/pt_a025ca628a9ccb3c/im_d279ba118ad6454f",
       1
     ],
     [
-      "Pisici/Patient 43/f76e878d",
+      "Pisici/pt_a025ca628a9ccb3c/im_307dd8b60f3fbace",
       1
     ],
     [
-      "Catei/Patient 81/3ec53b26",
+      "Catei/pt_fdf48417845f731c/im_a4f90871690a33b1",
       0
     ],
     [
-      "Catei/Patient 81/3ec5af86",
+      "Catei/pt_fdf48417845f731c/im_30b5aa7d1a7196b1",
       0
     ],
     [
-      "Catei/Patient 81/3ec623fb",
+      "Catei/pt_fdf48417845f731c/im_807de890aaac045f",
       0
     ],
     [
-      "Catei/Patient 64/2c3d3662",
+      "Catei/pt_ce296a370bd906d0/im_f868d90bba2bc689",
       0
     ],
     [
-      "Catei/Patient 64/b2e7c41b",
+      "Catei/pt_ce296a370bd906d0/im_91f266ae1833f224",
       0
     ],
     [
-      "Catei/Patient 64/b2e8387b",
+      "Catei/pt_ce296a370bd906d0/im_dd3388a24d186412",
       0
     ],
     [
-      "Catei/Patient 50/80c92743",
+      "Catei/pt_4f656493493c071e/im_8479c8cebaa20325",
       0
     ],
     [
-      "Catei/Patient 50/80c99ba3",
+      "Catei/pt_4f656493493c071e/im_6c058d1a6cfe11fd",
       0
     ],
     [
-      "Catei/Patient 50/80ca1018",
+      "Catei/pt_4f656493493c071e/im_d1c022cc32aa3bf6",
       0
     ],
     [
-      "Catei/Patient 50/80ca8478",
+      "Catei/pt_4f656493493c071e/im_5f2ce726c6ac0a04",
       0
     ],
     [
-      "Pisici/Patient 63/214c2a26",
+      "Pisici/pt_9f1bea3d84f5e343/im_b39ee93a9e20c8ae",
       1
     ],
     [
-      "Pisici/Patient 63/214c9e86",
+      "Pisici/pt_9f1bea3d84f5e343/im_8d32ae94f9ee0f26",
       1
     ],
     [
-      "Pisici/Patient 63/214d12fb",
+      "Pisici/pt_9f1bea3d84f5e343/im_fc52dfcf3286a6fa",
       1
     ],
     [
-      "Catei/Patient 61/802f7024",
+      "Catei/pt_476d604d390905da/im_1a3851344e51eae0",
       0
     ],
     [
-      "Catei/Patient 61/802fe484",
+      "Catei/pt_476d604d390905da/im_4e4e6ce68afcb066",
       0
     ],
     [
-      "Catei/Patient 61/81e448c3",
+      "Catei/pt_476d604d390905da/im_ab91372ecf61c37a",
       0
     ],
     [
-      "Catei/Patient 97/b50e922",
+      "Catei/pt_8bcfd9a8fae4486b/im_91ad35504bc9289e",
       0
     ],
     [
-      "Catei/Patient 97/b515d82",
+      "Catei/pt_8bcfd9a8fae4486b/im_c6f4853bd1aad8d9",
       0
     ],
     [
-      "Catei/Patient 97/b51d1f7",
+      "Catei/pt_8bcfd9a8fae4486b/im_8a567ac0b4b2a62c",
       0
     ],
     [
-      "Catei/Patient 97/b524657",
+      "Catei/pt_8bcfd9a8fae4486b/im_a792c944d4761cbb",
       0
     ],
     [
-      "Pisici/Patient 6/75562542",
+      "Pisici/pt_44b91026b4de952f/im_ff9ae18657d5a264",
       1
     ],
     [
-      "Pisici/Patient 6/755699a2",
+      "Pisici/pt_44b91026b4de952f/im_7eec6ad9973ee622",
       1
     ],
     [
-      "Catei/Patient 26/e83133d2",
+      "Catei/pt_3a8889c3547473f6/im_96900f500c50c07f",
       0
     ],
     [
-      "Catei/Patient 26/e831a832",
+      "Catei/pt_3a8889c3547473f6/im_88c7be3282fe7075",
       0
     ],
     [
-      "Catei/Patient 26/e8321ca7",
+      "Catei/pt_3a8889c3547473f6/im_2a1e64aadabf2263",
       0
     ],
     [
-      "Catei/Patient 26/e8329107",
+      "Catei/pt_3a8889c3547473f6/im_e052380d4ec97778",
       0
     ],
     [
-      "Catei/Patient 33/a7000c0f",
+      "Catei/pt_46087adcdd995eda/im_4ab5c514c5c268b2",
       0
     ],
     [
-      "Catei/Patient 33/a700806f",
+      "Catei/pt_46087adcdd995eda/im_f53d2a88a2706608",
       0
     ],
     [
-      "Catei/Patient 33/a700f4e4",
+      "Catei/pt_46087adcdd995eda/im_5e94f01713ef2e72",
       0
     ],
     [
-      "Catei/Patient 33/a7016944",
+      "Catei/pt_46087adcdd995eda/im_b97c1b68addc6e4e",
       0
     ],
     [
-      "Catei/Patient 33/a701dda4",
+      "Catei/pt_46087adcdd995eda/im_4dc90fa1ad327926",
       0
     ],
     [
-      "Pisici/Patient 53/d1e9aa67",
+      "Pisici/pt_c6e7ffedc2109b28/im_135e02b01c74d4d5",
       1
     ],
     [
-      "Pisici/Patient 53/d1ea1ec7",
+      "Pisici/pt_c6e7ffedc2109b28/im_e38787c05c74e308",
       1
     ],
     [
-      "Pisici/Patient 7/f14b011d",
+      "Pisici/pt_4b3e174dadc65e31/im_2cccff56065f1644",
       1
     ],
     [
-      "Pisici/Patient 7/f14b757d",
+      "Pisici/pt_4b3e174dadc65e31/im_895acf893cee9369",
       1
     ],
     [
-      "Pisici/Patient 66/3ad22c3e",
+      "Pisici/pt_964c7c2dfe845097/im_b19eb7e9509cb33f",
       1
     ],
     [
-      "Pisici/Patient 66/3ad2a09e",
+      "Pisici/pt_964c7c2dfe845097/im_3ca4f44a4dcbf67c",
       1
     ],
     [
-      "Pisici/Patient 66/3ad31513",
+      "Pisici/pt_964c7c2dfe845097/im_ccdadbfac1f1237a",
       1
     ],
     [
-      "Pisici/Patient 78/229fbd07",
+      "Pisici/pt_39ed77942a42d6b0/im_e5311e7ecbff4f46",
       1
     ],
     [
-      "Pisici/Patient 78/22a03167",
+      "Pisici/pt_39ed77942a42d6b0/im_d5ec53a9ad1e661b",
       1
     ],
     [
-      "Catei/Patient 10/993a92b5",
+      "Catei/pt_56a759ce5b99d8bf/im_f06e526f0f828453",
       0
     ],
     [
-      "Catei/Patient 10/993b0715",
+      "Catei/pt_56a759ce5b99d8bf/im_809e4cf399d99bda",
       0
     ],
     [
-      "Catei/Patient 10/993b7b8a",
+      "Catei/pt_56a759ce5b99d8bf/im_c81d2a71253702ec",
       0
     ],
     [
-      "Catei/Patient 10/993befea",
+      "Catei/pt_56a759ce5b99d8bf/im_54f610a3076002ec",
       0
     ],
     [
-      "Catei/Patient 10/993c644a",
+      "Catei/pt_56a759ce5b99d8bf/im_83deeb861052e4d9",
       0
     ],
     [
-      "Catei/Patient 10/993cd8aa",
+      "Catei/pt_56a759ce5b99d8bf/im_ebf682003d0b10d9",
       0
     ],
     [
-      "Pisici/Patient 56/b0d0281a",
+      "Pisici/pt_3965569e789ccefa/im_22a1fcf67095de6e",
       1
     ],
     [
-      "Pisici/Patient 56/b0d09c7a",
+      "Pisici/pt_3965569e789ccefa/im_78fbd9f48b275068",
       1
     ],
     [
-      "Pisici/Patient 56/b0d110ef",
+      "Pisici/pt_3965569e789ccefa/im_6ba41d7b25a813be",
       1
     ],
     [
-      "Catei/Patient 29/42c87631",
+      "Catei/pt_0f60938855b0d02f/im_9343a9755cabea17",
       0
     ],
     [
-      "Pisici/Patient 77/8c2fda8",
+      "Pisici/pt_0a8a7a231533e43d/im_21220f119f84c912",
       1
     ],
     [
-      "Pisici/Patient 77/8c37208",
+      "Pisici/pt_0a8a7a231533e43d/im_9bd9aec6cd89a949",
       1
     ],
     [
-      "Pisici/Patient 77/e0aa21d5",
+      "Pisici/pt_0a8a7a231533e43d/im_c71b699c6d1f0b7d",
       1
     ],
     [
-      "Catei/Patient 79/92430bb9",
+      "Catei/pt_d34c15a865b2a7dd/im_66613ef80a1e6ec1",
       0
     ],
     [
-      "Catei/Patient 79/92438019",
+      "Catei/pt_d34c15a865b2a7dd/im_4098368fb04d9a35",
       0
     ],
     [
-      "Catei/Patient 79/9243f48e",
+      "Catei/pt_d34c15a865b2a7dd/im_3aa9860c8439ca27",
       0
     ],
     [
-      "Catei/Patient 79/924468ee",
+      "Catei/pt_d34c15a865b2a7dd/im_76a6e0aa4cbce239",
       0
     ],
     [
-      "Catei/Patient 79/9244dd4e",
+      "Catei/pt_d34c15a865b2a7dd/im_7de9d588b107346f",
       0
     ],
     [
-      "Catei/Patient 79/924551ae",
+      "Catei/pt_d34c15a865b2a7dd/im_280f656bf163096e",
       0
     ],
     [
-      "Pisici/Patient 36/290e8e04",
+      "Pisici/pt_dad7ff410614ec92/im_5180bdffaccbb8c9",
       1
     ],
     [
-      "Pisici/Patient 36/a264004b",
+      "Pisici/pt_dad7ff410614ec92/im_2a34de7caa0d92a5",
       1
     ],
     [
-      "Pisici/Patient 36/a26474ab",
+      "Pisici/pt_dad7ff410614ec92/im_398da2c4c1a6b619",
       1
     ],
     [
-      "Pisici/Patient 45/1aab4868",
+      "Pisici/pt_9c0ea90b146f81d6/im_7df27da67c7a5413",
       1
     ],
     [
-      "Pisici/Patient 52/c92ecee9",
+      "Pisici/pt_e49c7d32c08b8427/im_8979c152f026cbba",
       1
     ],
     [
-      "Pisici/Patient 52/c92f4349",
+      "Pisici/pt_e49c7d32c08b8427/im_9ed10eeddbf0282e",
       1
     ],
     [
-      "Pisici/Patient 17/abc7c472",
+      "Pisici/pt_b428fcab4506de5c/im_5841a011a0261cb6",
       1
     ],
     [
-      "Catei/Patient 46/e03eb0ef",
+      "Catei/pt_778816e2997481c1/im_023effb85de19ed9",
       0
     ],
     [
-      "Catei/Patient 46/e03f254f",
+      "Catei/pt_778816e2997481c1/im_4e515b85e9b96c69",
       0
     ],
     [
-      "Catei/Patient 46/e03f99c4",
+      "Catei/pt_778816e2997481c1/im_dfaf4146b48b0516",
       0
     ],
     [
-      "Pisici/Patient 31/23c67040",
+      "Pisici/pt_d7b05ad772cd55a8/im_be83a93af206d743",
       1
     ],
     [
-      "Pisici/Patient 31/23c6e4a0",
+      "Pisici/pt_d7b05ad772cd55a8/im_483328bb5ec2d666",
       1
     ],
     [
-      "Catei/Patient 1/1f91e47b",
+      "Catei/pt_fda05a881e376e70/im_a0ab523a36c6afd5",
       0
     ],
     [
-      "Catei/Patient 1/2daf4b57",
+      "Catei/pt_fda05a881e376e70/im_a1edb9c90ebc80f8",
       0
     ],
     [
-      "Catei/Patient 1/33960f6c",
+      "Catei/pt_fda05a881e376e70/im_3bfe7a7fd1a56c2e",
       0
     ],
     [
-      "Catei/Patient 1/4a616fa1",
+      "Catei/pt_fda05a881e376e70/im_21616439bb66b757",
       0
     ],
     [
-      "Catei/Patient 1/6d1f92d3",
+      "Catei/pt_fda05a881e376e70/im_f9aeba03012f207e",
       0
     ],
     [
-      "Catei/Patient 1/7e10f0e8",
+      "Catei/pt_fda05a881e376e70/im_3d56ca40c66c0d57",
       0
     ],
     [
-      "Catei/Patient 1/a60e428c",
+      "Catei/pt_fda05a881e376e70/im_28aa1eb9aad72de2",
       0
     ],
     [
-      "Catei/Patient 56/b0f9bc01",
+      "Catei/pt_c5a708eec13a8775/im_15ab3c09db44fe4f",
       0
     ],
     [
-      "Catei/Patient 56/b0fa3061",
+      "Catei/pt_c5a708eec13a8775/im_aba475d648166844",
       0
     ],
     [
-      "Catei/Patient 3/7490cbf3",
+      "Catei/pt_c6be093c4222ce20/im_0dbd341dae03afa5",
       0
     ],
     [
-      "Catei/Patient 3/8e9b935",
+      "Catei/pt_c6be093c4222ce20/im_5675ed48dceaccce",
       0
     ],
     [
-      "Pisici/Patient 33/1090c044",
+      "Pisici/pt_6bdc70d7e67194f9/im_bf6c8ec3d8c4eef1",
       1
     ],
     [
-      "Pisici/Patient 33/109134a4",
+      "Pisici/pt_6bdc70d7e67194f9/im_fabddeb372cc8801",
       1
     ],
     [
-      "Catei/Patient 15/784bcfa",
+      "Catei/pt_6b7736e914063b76/im_0842f3fe3c446b8a",
       0
     ],
     [
-      "Pisici/Patient 30/405d61e9",
+      "Pisici/pt_6720b03a92c327e0/im_8d3ddff4c96e16a7",
       1
     ],
     [
-      "Pisici/Patient 30/88ae9ec3",
+      "Pisici/pt_6720b03a92c327e0/im_7376fff6f6efcfe7",
       1
     ],
     [
-      "Catei/Patient 43/70a981eb",
+      "Catei/pt_2b4439357314a490/im_909a285551d714b7",
       0
     ],
     [
-      "Catei/Patient 43/70aa6ac0",
+      "Catei/pt_2b4439357314a490/im_52c4f7a470ea0704",
       0
     ],
     [
-      "Catei/Patient 43/70ab5380",
+      "Catei/pt_2b4439357314a490/im_9139b8b504129e0e",
       0
     ],
     [
-      "Pisici/Patient 1/825e8f63",
+      "Pisici/pt_f4bbbc362aecd1b9/im_13e73668b79e3c62",
       1
     ],
     [
-      "Pisici/Patient 1/825f03c3",
+      "Pisici/pt_f4bbbc362aecd1b9/im_eb2576bea9439eff",
       1
     ],
     [
-      "Pisici/Patient 1/825f7838",
+      "Pisici/pt_f4bbbc362aecd1b9/im_50f18816ca59383e",
       1
     ],
     [
-      "Catei/Patient 96/3b14093d",
+      "Catei/pt_606637e4dc935d27/im_ba7fbc37ac6bfa6c",
       0
     ],
     [
-      "Catei/Patient 96/3b147d9d",
+      "Catei/pt_606637e4dc935d27/im_7e2658b244d5fabe",
       0
     ],
     [
-      "Catei/Patient 96/3b14f212",
+      "Catei/pt_606637e4dc935d27/im_4061e2aa104371d2",
       0
     ],
     [
-      "Catei/Patient 39/24a8f7b4",
+      "Catei/pt_969a77003addf258/im_5666699b460363e0",
       0
     ],
     [
-      "Catei/Patient 39/24a96c14",
+      "Catei/pt_969a77003addf258/im_23843e07fac6bc39",
       0
     ],
     [
-      "Catei/Patient 39/24a9e089",
+      "Catei/pt_969a77003addf258/im_e8228875ab3c1a1a",
       0
     ],
     [
-      "Pisici/Patient 67/eaccca9a",
+      "Pisici/pt_8c912b3b38bd7d58/im_988cf41f66b53d29",
       1
     ],
     [
-      "Pisici/Patient 67/eacd3efa",
+      "Pisici/pt_8c912b3b38bd7d58/im_08a3cd6326cd0735",
       1
     ],
     [
-      "Catei/Patient 78/fe5c5607",
+      "Catei/pt_b07d872f0ca3089d/im_73be65075aa83633",
       0
     ],
     [
-      "Catei/Patient 78/fe5cca67",
+      "Catei/pt_b07d872f0ca3089d/im_e7d418dfaa2c88cc",
       0
     ],
     [
-      "Catei/Patient 78/fe5d3edc",
+      "Catei/pt_b07d872f0ca3089d/im_c952a3f7f6cfdef2",
       0
     ],
     [
-      "Pisici/Patient 54/b171274a",
+      "Pisici/pt_280d2bc32ab7a15a/im_3aadd66bf4611c55",
       1
     ],
     [
-      "Pisici/Patient 54/b1719bbf",
+      "Pisici/pt_280d2bc32ab7a15a/im_41f30c8277cbe1c4",
       1
     ],
     [
-      "Pisici/Patient 54/bef0a8cc",
+      "Pisici/pt_280d2bc32ab7a15a/im_d061e4289dbefdb2",
       1
     ],
     [
-      "Catei/Patient 40/2a0ca950",
+      "Catei/pt_b2cf2a1b549839af/im_4965eea32bd88a92",
       0
     ],
     [
-      "Catei/Patient 40/2a0d1db0",
+      "Catei/pt_b2cf2a1b549839af/im_06cdce5bb1260f2d",
       0
     ],
     [
-      "Catei/Patient 40/2a0d9225",
+      "Catei/pt_b2cf2a1b549839af/im_3ca004eb661d671f",
       0
     ],
     [
-      "Pisici/Patient 11/9d4e39e9",
+      "Pisici/pt_fe2b70a4581bf227/im_fb9e3ec6a9659c27",
       1
     ],
     [
-      "Pisici/Patient 11/9d4eae49",
+      "Pisici/pt_fe2b70a4581bf227/im_b0d0ec41f71cd59a",
       1
     ],
     [
-      "Pisici/Patient 11/9d4f22be",
+      "Pisici/pt_fe2b70a4581bf227/im_366a0125d475abb8",
       1
     ],
     [
-      "Catei/Patient 23/2689203b",
+      "Catei/pt_2b201f5ba69701e6/im_2ec3451b5315587c",
       0
     ],
     [
-      "Catei/Patient 23/2689949b",
+      "Catei/pt_2b201f5ba69701e6/im_246558d4e9d79591",
       0
     ],
     [
-      "Catei/Patient 23/268a0910",
+      "Catei/pt_2b201f5ba69701e6/im_afbe2ab37a93ed9a",
       0
     ],
     [
-      "Catei/Patient 23/268a7d70",
+      "Catei/pt_2b201f5ba69701e6/im_2a187318cb6a39c9",
       0
     ],
     [
-      "Catei/Patient 23/268af1d0",
+      "Catei/pt_2b201f5ba69701e6/im_8541a1bb45ad9d10",
       0
     ],
     [
-      "Catei/Patient 23/268b6630",
+      "Catei/pt_2b201f5ba69701e6/im_789f5a898409cb04",
       0
     ],
     [
-      "Pisici/Patient 27/ae213d72",
+      "Pisici/pt_bf53cf5ddce097c6/im_dcc0fd849021d85f",
       1
     ],
     [
-      "Pisici/Patient 27/ae21b1d2",
+      "Pisici/pt_bf53cf5ddce097c6/im_60d608759da9b9c2",
       1
     ],
     [
-      "Pisici/Patient 27/ae222647",
+      "Pisici/pt_bf53cf5ddce097c6/im_bd7fe51762226e54",
       1
     ],
     [
-      "Catei/Patient 94/77e8630",
+      "Catei/pt_6d3561ec8ecf9eb1/im_577c6610b91f6fa5",
       0
     ],
     [
-      "Catei/Patient 94/77efa90",
+      "Catei/pt_6d3561ec8ecf9eb1/im_34d01b5530904dd3",
       0
     ],
     [
-      "Catei/Patient 94/77f6f05",
+      "Catei/pt_6d3561ec8ecf9eb1/im_1e518a675aae14b8",
       0
     ],
     [
-      "Catei/Patient 94/77fe365",
+      "Catei/pt_6d3561ec8ecf9eb1/im_8fb3c65a3e6409a2",
       0
     ],
     [
-      "Catei/Patient 94/78057c5",
+      "Catei/pt_6d3561ec8ecf9eb1/im_a0b162881280db91",
       0
     ],
     [
-      "Catei/Patient 94/780cc25",
+      "Catei/pt_6d3561ec8ecf9eb1/im_874810838a4dfcaa",
       0
     ],
     [
-      "Catei/Patient 94/7814085",
+      "Catei/pt_6d3561ec8ecf9eb1/im_b1c5f325d39b2568",
       0
     ],
     [
-      "Catei/Patient 94/781b4e5",
+      "Catei/pt_6d3561ec8ecf9eb1/im_2841a482cf0ec128",
       0
     ],
     [
-      "Catei/Patient 94/e86129df",
+      "Catei/pt_6d3561ec8ecf9eb1/im_b83c7bacc1706f83",
       0
     ],
     [
-      "Catei/Patient 94/e8619e3f",
+      "Catei/pt_6d3561ec8ecf9eb1/im_dd1d64a5d3f0fe61",
       0
     ],
     [
-      "Pisici/Patient 62/d33769da",
+      "Pisici/pt_8ee5f19c7e7fe049/im_d98f7ab5c445d8eb",
       1
     ],
     [
-      "Pisici/Patient 62/d337de3a",
+      "Pisici/pt_8ee5f19c7e7fe049/im_2a17abde5ae08b24",
       1
     ],
     [
-      "Pisici/Patient 62/d33852af",
+      "Pisici/pt_8ee5f19c7e7fe049/im_1b5e15b6acb4f72b",
       1
     ],
     [
-      "Catei/Patient 17/49029758",
+      "Catei/pt_042c7306aecfaf12/im_757ab306658c8393",
       0
     ],
     [
-      "Catei/Patient 17/49030bb8",
+      "Catei/pt_042c7306aecfaf12/im_27e7c7a2a8ca31d5",
       0
     ],
     [
-      "Catei/Patient 65/4e6f97c7",
+      "Catei/pt_57c4b2db479157d4/im_518842d306eb018d",
       0
     ],
     [
-      "Catei/Patient 65/4e700c27",
+      "Catei/pt_57c4b2db479157d4/im_bbb8ac8daf451fd4",
       0
     ],
     [
-      "Pisici/Patient 57/861a1ce3",
+      "Pisici/pt_1b5572643eda8542/im_571ab840e15487f8",
       1
     ],
     [
-      "Pisici/Patient 57/861a9143",
+      "Pisici/pt_1b5572643eda8542/im_a46d40ea0e526375",
       1
     ],
     [
-      "Catei/Patient 101/77b4f860",
+      "Catei/pt_499e9ae84ff95c66/im_7856f637d41a011f",
       0
     ],
     [
-      "Catei/Patient 101/77b56cc0",
+      "Catei/pt_499e9ae84ff95c66/im_931a77008b7d289d",
       0
     ],
     [
-      "Catei/Patient 101/77b5e135",
+      "Catei/pt_499e9ae84ff95c66/im_3b9da85a7d9d4f70",
       0
     ],
     [
-      "Pisici/Patient 50/d25fca3",
+      "Pisici/pt_1768ef25fbed0b1f/im_5b7ddfb28ff99243",
       1
     ],
     [
-      "Pisici/Patient 50/d267103",
+      "Pisici/pt_1768ef25fbed0b1f/im_23d3c369f8691a76",
       1
     ],
     [
-      "Pisici/Patient 50/d26e578",
+      "Pisici/pt_1768ef25fbed0b1f/im_f41a89fc43c30eae",
       1
     ],
     [
-      "Pisici/Patient 5/b0d13a7d",
+      "Pisici/pt_c459127aa2346ce1/im_6fd355f9d8f128b1",
       1
     ],
     [
-      "Pisici/Patient 5/b0d1aedd",
+      "Pisici/pt_c459127aa2346ce1/im_9c503acc5e53304a",
       1
     ],
     [
-      "Pisici/Patient 5/b0d22352",
+      "Pisici/pt_c459127aa2346ce1/im_8333fc6c46fa5f22",
       1
     ],
     [
-      "Pisici/Patient 5/b0d297b2",
+      "Pisici/pt_c459127aa2346ce1/im_320e4052cdebca0e",
       1
     ],
     [
-      "Pisici/Patient 79/686b9760",
+      "Pisici/pt_4c0ffbcf12fa633a/im_98a642f8be71c4ae",
       1
     ],
     [
-      "Pisici/Patient 79/686c0bc0",
+      "Pisici/pt_4c0ffbcf12fa633a/im_94f361f4fd8ba9b2",
       1
     ],
     [
-      "Pisici/Patient 79/686c8035",
+      "Pisici/pt_4c0ffbcf12fa633a/im_5f9818d32b63cd18",
       1
     ],
     [
-      "Catei/Patient 95/8a70eca2",
+      "Catei/pt_75440c0a5e0b383c/im_b6b9e0d58267679c",
       0
     ],
     [
-      "Catei/Patient 95/8a716102",
+      "Catei/pt_75440c0a5e0b383c/im_63a484f271e67c2e",
       0
     ],
     [
-      "Catei/Patient 95/8a71d577",
+      "Catei/pt_75440c0a5e0b383c/im_8d700de7440a4f8b",
       0
     ],
     [
-      "Catei/Patient 69/3edf93ff",
+      "Catei/pt_746586e5561cba98/im_06e832f91820f291",
       0
     ],
     [
-      "Catei/Patient 69/3ee0085f",
+      "Catei/pt_746586e5561cba98/im_e903a525516b81d7",
       0
     ],
     [
-      "Catei/Patient 69/3ee07cd4",
+      "Catei/pt_746586e5561cba98/im_4f0a9d74d0305889",
       0
     ],
     [
-      "Pisici/Patient 10/2a22ee3d",
+      "Pisici/pt_bf14f63482cfc9fb/im_012025913bb95397",
       1
     ],
     [
-      "Pisici/Patient 10/2a23629d",
+      "Pisici/pt_bf14f63482cfc9fb/im_6c9b39b902b2cbe0",
       1
     ],
     [
-      "Pisici/Patient 10/2a23d712",
+      "Pisici/pt_bf14f63482cfc9fb/im_3906568db3fa94b7",
       1
     ],
     [
-      "Pisici/Patient 64/2d71c945",
+      "Pisici/pt_712d3683ce161b2e/im_1e3c255109beb4ea",
       1
     ],
     [
-      "Pisici/Patient 64/2d723da5",
+      "Pisici/pt_712d3683ce161b2e/im_4b03af6c0b869e04",
       1
     ],
     [
-      "Pisici/Patient 68/30f7631c",
+      "Pisici/pt_b5840a997359cd49/im_676dc8b8c30f89a8",
       1
     ],
     [
-      "Pisici/Patient 68/30f7d77c",
+      "Pisici/pt_b5840a997359cd49/im_a2bbcd3c55506fe4",
       1
     ],
     [
-      "Pisici/Patient 68/30f84bf1",
+      "Pisici/pt_b5840a997359cd49/im_576f7028fbef5557",
       1
     ],
     [
-      "Pisici/Patient 68/30f8c051",
+      "Pisici/pt_b5840a997359cd49/im_d20c47f6e18b8259",
       1
     ],
     [
-      "Pisici/Patient 76/bcc7791a",
+      "Pisici/pt_8d876b98e24bedaf/im_b97737ac61075592",
       1
     ],
     [
-      "Pisici/Patient 76/bcc7ed7a",
+      "Pisici/pt_8d876b98e24bedaf/im_7e0cf23206441a78",
       1
     ],
     [
-      "Pisici/Patient 76/bcc861ef",
+      "Pisici/pt_8d876b98e24bedaf/im_47a6ddfaf1de8169",
       1
     ],
     [
-      "Pisici/Patient 76/bcc8d64f",
+      "Pisici/pt_8d876b98e24bedaf/im_cf7f927c97ffec32",
       1
     ],
     [
-      "Pisici/Patient 24/83dadfa9",
+      "Pisici/pt_f6589cf6cba32f63/im_1c1c094396273b5e",
       1
     ],
     [
-      "Pisici/Patient 24/83db5409",
+      "Pisici/pt_f6589cf6cba32f63/im_57eafa32538a3bd5",
       1
     ],
     [
-      "Pisici/Patient 55/673c129f",
+      "Pisici/pt_3dbbe639c7a2df11/im_c74b1fff3134cd9a",
       1
     ],
     [
-      "Pisici/Patient 55/673c86ff",
+      "Pisici/pt_3dbbe639c7a2df11/im_2be874ef63628e13",
       1
     ],
     [
-      "Pisici/Patient 55/673cfb74",
+      "Pisici/pt_3dbbe639c7a2df11/im_fd2c0b7b95bef6d6",
       1
     ],
     [
-      "Pisici/Patient 55/673d6fd4",
+      "Pisici/pt_3dbbe639c7a2df11/im_b743926ace35eb28",
       1
     ],
     [
-      "Pisici/Patient 20/5d773b6d",
+      "Pisici/pt_14facef153088983/im_ccb65e1792d6c23c",
       1
     ],
     [
-      "Pisici/Patient 20/5d77afcd",
+      "Pisici/pt_14facef153088983/im_95e8f20104995d18",
       1
     ],
     [
-      "Pisici/Patient 58/816e3181",
+      "Pisici/pt_44b8478293aed1f9/im_296f4728549d1d2f",
       1
     ],
     [
-      "Pisici/Patient 58/816ea5e1",
+      "Pisici/pt_44b8478293aed1f9/im_d77239a96624c462",
       1
     ],
     [
-      "Pisici/Patient 58/816f1a56",
+      "Pisici/pt_44b8478293aed1f9/im_578de5798542af49",
       1
     ],
     [
-      "Catei/Patient 13/4e760504",
+      "Catei/pt_82408be742141c40/im_6466ec103ffd4c2b",
       0
     ],
     [
-      "Catei/Patient 13/4e767964",
+      "Catei/pt_82408be742141c40/im_213e167cee324893",
       0
     ],
     [
-      "Catei/Patient 49/c0922902",
+      "Catei/pt_caca20db88fba3b7/im_527021ed5c1298f6",
       0
     ],
     [
-      "Catei/Patient 49/c0929d62",
+      "Catei/pt_caca20db88fba3b7/im_9bb271c2992e4566",
       0
     ],
     [
-      "Catei/Patient 49/c09311d7",
+      "Catei/pt_caca20db88fba3b7/im_4b1b1ee05057045a",
       0
     ],
     [
-      "Catei/Patient 49/c24701a1",
+      "Catei/pt_caca20db88fba3b7/im_eb6109c287151412",
       0
     ],
     [
-      "Pisici/Patient 71/54297332",
+      "Pisici/pt_329ddd5dcb4432a4/im_94fedccea5059e4c",
       1
     ],
     [
-      "Pisici/Patient 71/5429e792",
+      "Pisici/pt_329ddd5dcb4432a4/im_ac3002623971a647",
       1
     ],
     [
-      "Pisici/Patient 71/542a5c07",
+      "Pisici/pt_329ddd5dcb4432a4/im_49491474be50be23",
       1
     ],
     [
-      "Pisici/Patient 71/542ad067",
+      "Pisici/pt_329ddd5dcb4432a4/im_cd9b0a780ea0371b",
       1
     ],
     [
-      "Catei/Patient 54/b9d70f30",
+      "Catei/pt_5f8e364134002121/im_9c982c50dee5086a",
       0
     ],
     [
-      "Catei/Patient 54/b9d78390",
+      "Catei/pt_5f8e364134002121/im_f4978e5929b34e45",
       0
     ],
     [
-      "Pisici/Patient 32/9648800b",
+      "Pisici/pt_b91e997f2a8f6f72/im_34d5dfd37bc55436",
       1
     ],
     [
-      "Pisici/Patient 32/9648f46b",
+      "Pisici/pt_b91e997f2a8f6f72/im_e5f9f9b3ceb868d7",
       1
     ],
     [
-      "Pisici/Patient 32/964968e0",
+      "Pisici/pt_b91e997f2a8f6f72/im_d9622df4d35e47b1",
       1
     ],
     [
-      "Pisici/Patient 70/32a7aa72",
+      "Pisici/pt_9efed2d8a55d359a/im_b4bbb3bc7f502dc6",
       1
     ],
     [
-      "Pisici/Patient 70/32a89347",
+      "Pisici/pt_9efed2d8a55d359a/im_6aa4ac2969803f19",
       1
     ],
     [
-      "Pisici/Patient 70/32a907a7",
+      "Pisici/pt_9efed2d8a55d359a/im_c8af1c83eea74985",
       1
     ],
     [
-      "Pisici/Patient 70/32a97c07",
+      "Pisici/pt_9efed2d8a55d359a/im_83f8aa40f6a56387",
       1
     ],
     [
-      "Catei/Patient 31/9220c84d",
+      "Catei/pt_21d806fb07afc0ee/im_cdfeb326d111421e",
       0
     ],
     [
-      "Catei/Patient 31/92213cad",
+      "Catei/pt_21d806fb07afc0ee/im_a020d096459f7f67",
       0
     ],
     [
-      "Catei/Patient 31/9221b122",
+      "Catei/pt_21d806fb07afc0ee/im_0cb31aeee0d6c495",
       0
     ]
   ],
   "val": [
     [
-      "Catei/Patient 37/6f26d54f",
+      "Catei/pt_a3b5d977e279a47d/im_358d62748509a708",
       0
     ],
     [
-      "Catei/Patient 37/6f2749af",
+      "Catei/pt_a3b5d977e279a47d/im_ed5d4c3189fc6c53",
       0
     ],
     [
-      "Pisici/Patient 19/34ee5d6b",
+      "Pisici/pt_25f61c8f4f412f5b/im_49dddd6c5c371bcc",
       1
     ],
     [
-      "Pisici/Patient 19/34eed1cb",
+      "Pisici/pt_25f61c8f4f412f5b/im_7b5fb2b37c5c1adf",
       1
     ],
     [
-      "Pisici/Patient 19/34ef4640",
+      "Pisici/pt_25f61c8f4f412f5b/im_8fc55a7ae3b6b943",
       1
     ],
     [
-      "Catei/Patient 32/26d7374c",
+      "Catei/pt_562b485863520ea6/im_e6f0ff6fa074a27c",
       0
     ],
     [
-      "Catei/Patient 32/26d7abac",
+      "Catei/pt_562b485863520ea6/im_625ff6e742050690",
       0
     ],
     [
-      "Catei/Patient 32/26d82021",
+      "Catei/pt_562b485863520ea6/im_f7186127f34aecec",
       0
     ],
     [
-      "Catei/Patient 32/26d89481",
+      "Catei/pt_562b485863520ea6/im_9e1b8f6c8242b24f",
       0
     ],
     [
-      "Catei/Patient 68/9e3dc7bf",
+      "Catei/pt_27579af7a4724ad6/im_38ae3c90627e1978",
       0
     ],
     [
-      "Catei/Patient 68/9e3e3c1f",
+      "Catei/pt_27579af7a4724ad6/im_b58557d1cb7fc8cb",
       0
     ],
     [
-      "Catei/Patient 98/db9a89f1/1e983a67/9858ad06/2c78b056",
+      "Catei/pt_3fb2c68da0a16b25/im_ee730fd978974947",
       0
     ],
     [
-      "Catei/Patient 98/f45bf0ae",
+      "Catei/pt_3fb2c68da0a16b25/im_804cb6a531f7bbc4",
       0
     ],
     [
-      "Catei/Patient 98/f45c650e",
+      "Catei/pt_3fb2c68da0a16b25/im_874daa4d9e4c3228",
       0
     ],
     [
-      "Pisici/Patient 48/e4656081",
+      "Pisici/pt_1f87a3b7b6bd0242/im_82b1f9cef2497b59",
       1
     ],
     [
-      "Pisici/Patient 48/e465d4e1",
+      "Pisici/pt_1f87a3b7b6bd0242/im_d5bd421938b94275",
       1
     ],
     [
-      "Pisici/Patient 42/2e11d326",
+      "Pisici/pt_bb2df144a45f0993/im_92a9c27e71ccb8f2",
       1
     ],
     [
-      "Pisici/Patient 42/2e124786",
+      "Pisici/pt_bb2df144a45f0993/im_4cbe723d9d0ba206",
       1
     ],
     [
-      "Pisici/Patient 47/bd9ef8e3",
+      "Pisici/pt_22573c8f65b6fd03/im_b388f550260bb19e",
       1
     ],
     [
-      "Pisici/Patient 47/bd9f6d43",
+      "Pisici/pt_22573c8f65b6fd03/im_118411a51a1272f7",
       1
     ],
     [
-      "Catei/Patient 75/9b7bf742",
+      "Catei/pt_423784b31b7ecb74/im_594472e428efc97c",
       0
     ],
     [
-      "Catei/Patient 75/9b7c6ba2",
+      "Catei/pt_423784b31b7ecb74/im_cfd2268734090e4b",
       0
     ],
     [
-      "Catei/Patient 75/ed5cea60",
+      "Catei/pt_423784b31b7ecb74/im_ca550a99b9189ffb",
       0
     ],
     [
-      "Catei/Patient 2/1ad49e60",
+      "Catei/pt_9caeeb9c97d1b5ad/im_0f3bde523a1eb8b8",
       0
     ],
     [
-      "Catei/Patient 71/5df78129",
+      "Catei/pt_e59b3e172ef9558c/im_08bb4a11b394391d",
       0
     ],
     [
-      "Catei/Patient 71/5df7f589",
+      "Catei/pt_e59b3e172ef9558c/im_ecc36612900c28eb",
       0
     ],
     [
-      "Catei/Patient 71/5df869fe",
+      "Catei/pt_e59b3e172ef9558c/im_2a5637ab1eecdb73",
       0
     ],
     [
-      "Catei/Patient 71/5df8de5e",
+      "Catei/pt_e59b3e172ef9558c/im_6e3444bdc70f26b9",
       0
     ],
     [
-      "Catei/Patient 71/5df952be",
+      "Catei/pt_e59b3e172ef9558c/im_6fb5226498209ce4",
       0
     ],
     [
-      "Catei/Patient 88/59f20cd7",
+      "Catei/pt_b331a32465b623a6/im_8f19297231a5daaa",
       0
     ],
     [
-      "Catei/Patient 88/59f28137",
+      "Catei/pt_b331a32465b623a6/im_955e4b459fb38b65",
       0
     ],
     [
-      "Catei/Patient 88/59f2f5ac",
+      "Catei/pt_b331a32465b623a6/im_d868feb941d79d1d",
       0
     ],
     [
-      "Catei/Patient 88/5f1096b4",
+      "Catei/pt_b331a32465b623a6/im_183fe98a5c0f9211",
       0
     ],
     [
-      "Catei/Patient 89/6f4c2dc4",
+      "Catei/pt_0e56d447808e9800/im_3815cb40ab744cd7",
       0
     ],
     [
-      "Catei/Patient 89/6f4ca224",
+      "Catei/pt_0e56d447808e9800/im_db8175c4d83cc5f3",
       0
     ],
     [
-      "Pisici/Patient 81/d3b33ac9",
+      "Pisici/pt_214329f246be14fa/im_e1cf0641145bb834",
       1
     ],
     [
-      "Pisici/Patient 81/d3b3af29",
+      "Pisici/pt_214329f246be14fa/im_40754c936fd392eb",
       1
     ],
     [
-      "Pisici/Patient 81/d3b4239e",
+      "Pisici/pt_214329f246be14fa/im_3e22a2501b96f1ff",
       1
     ],
     [
-      "Pisici/Patient 37/6c3cafb8",
+      "Pisici/pt_c8ca5f6624b66a33/im_f32ddbcd7e67dc76",
       1
     ],
     [
-      "Catei/Patient 77/2a420197",
+      "Catei/pt_4d1cf955de7390c5/im_a7ffb75246e32316",
       0
     ],
     [
-      "Catei/Patient 77/2a4275f7",
+      "Catei/pt_4d1cf955de7390c5/im_b6f968198b794ad9",
       0
     ],
     [
-      "Catei/Patient 77/2a42ea6c",
+      "Catei/pt_4d1cf955de7390c5/im_701878aabfa0e2fd",
       0
     ],
     [
-      "Catei/Patient 87/2dbc2f3d",
+      "Catei/pt_e09fb0467d1527ac/im_10b4e768ada59d6d",
       0
     ],
     [
-      "Catei/Patient 87/2dbca39d",
+      "Catei/pt_e09fb0467d1527ac/im_e60d17634c6d185c",
       0
     ],
     [
-      "Catei/Patient 87/2dbd1812",
+      "Catei/pt_e09fb0467d1527ac/im_8bfca97b44efc2f0",
       0
     ],
     [
-      "Catei/Patient 93/c4839153",
+      "Catei/pt_012a74d2d4ada535/im_5a847d7ab4d4794f",
       0
     ],
     [
-      "Catei/Patient 93/c48405b3",
+      "Catei/pt_012a74d2d4ada535/im_378f66ee98e2c1da",
       0
     ],
     [
-      "Pisici/Patient 12/8369d760",
+      "Pisici/pt_d5e92abc928c55c8/im_c3a008b6b37db6bb",
       1
     ],
     [
-      "Pisici/Patient 12/836a4bc0",
+      "Pisici/pt_d5e92abc928c55c8/im_c56929b55a1ced19",
       1
     ],
     [
-      "Pisici/Patient 44/ce7aca8b",
+      "Pisici/pt_3d5bc7147bbc488a/im_3df0b10c6347f8f1",
       1
     ],
     [
-      "Pisici/Patient 44/ce7b3eeb",
+      "Pisici/pt_3d5bc7147bbc488a/im_41195e54dd7d4ac3",
       1
     ],
     [
-      "Catei/Patient 20/c080fd6a",
+      "Catei/pt_09301d306e18c7cf/im_136a74b4e9d770e8",
       0
     ],
     [
-      "Catei/Patient 20/c08171ca",
+      "Catei/pt_09301d306e18c7cf/im_ce25d3ffa0120996",
       0
     ],
     [
-      "Pisici/Patient 65/ba71cd81",
+      "Pisici/pt_de1d441bd4863331/im_507224f0241f3078",
       1
     ],
     [
-      "Pisici/Patient 65/ba7241e1",
+      "Pisici/pt_de1d441bd4863331/im_78daa2fe3aeda582",
       1
     ],
     [
-      "Pisici/Patient 65/ba72b656",
+      "Pisici/pt_de1d441bd4863331/im_9d753464a06dd0ea",
       1
     ],
     [
-      "Pisici/Patient 65/daa6222",
+      "Pisici/pt_de1d441bd4863331/im_63eb9cfe3800b6ab",
       1
     ],
     [
-      "Catei/Patient 92/e8ab92f",
+      "Catei/pt_4eb6321daf2bde89/im_af40833382287352",
       0
     ],
     [
-      "Catei/Patient 92/e8b2d8f",
+      "Catei/pt_4eb6321daf2bde89/im_de407a85b9168942",
       0
     ],
     [
-      "Catei/Patient 92/e8ba204",
+      "Catei/pt_4eb6321daf2bde89/im_58d3eeccfb908329",
       0
     ],
     [
-      "Pisici/Patient 29/8eca9cca",
+      "Pisici/pt_3f64f61d72f23294/im_bd5cac387a205452",
       1
     ],
     [
-      "Pisici/Patient 29/8ecb112a",
+      "Pisici/pt_3f64f61d72f23294/im_03cc098d4a3f498e",
       1
     ],
     [
-      "Pisici/Patient 60/806f0b09",
+      "Pisici/pt_8a12a302492c49d7/im_eb6d3b52a190f21e",
       1
     ],
     [
-      "Pisici/Patient 60/806f7f69",
+      "Pisici/pt_8a12a302492c49d7/im_7058ff74e10072ec",
       1
     ],
     [
-      "Pisici/Patient 60/806ff3de",
+      "Pisici/pt_8a12a302492c49d7/im_67cefd5143b7eb01",
       1
     ],
     [
-      "Catei/Patient 58/a11f5e8a",
+      "Catei/pt_a6701b2cdd59815c/im_d48f6d3f5dd512d6",
       0
     ],
     [
-      "Pisici/Patient 69/da216a77",
+      "Pisici/pt_c666e9cd7fbbaa95/im_d09a6b2544754c65",
       1
     ],
     [
-      "Pisici/Patient 69/da21ded7",
+      "Pisici/pt_c666e9cd7fbbaa95/im_7d7541afebd25db3",
       1
     ],
     [
-      "Pisici/Patient 49/cb382016",
+      "Pisici/pt_b7ea11e0e30c178b/im_07752b082a29b62d",
       1
     ]
   ],
   "test": [
     [
-      "Catei/Patient 19/2fde83b6",
+      "Catei/pt_58ed4cd78abe896d/im_41d88355f652829e",
       0
     ],
     [
-      "Catei/Patient 19/2fdef816",
+      "Catei/pt_58ed4cd78abe896d/im_c8e14ccb026b7477",
       0
     ],
     [
-      "Catei/Patient 19/2fdf6c8b",
+      "Catei/pt_58ed4cd78abe896d/im_74a7e62bc42ec908",
       0
     ],
     [
-      "Pisici/Patient 13/5e99daba",
+      "Pisici/pt_6fe484d9ce05887b/im_6ece76e7b0e7696f",
       1
     ],
     [
-      "Pisici/Patient 13/5e9a4f1a",
+      "Pisici/pt_6fe484d9ce05887b/im_0b2a54c9f12393dc",
       1
     ],
     [
-      "Pisici/Patient 16/df95d97c",
+      "Pisici/pt_32c7109fa8981d49/im_e874569c2b99d934",
       1
     ],
     [
-      "Pisici/Patient 16/df964ddc",
+      "Pisici/pt_32c7109fa8981d49/im_2e78ff585eeb4a1a",
       1
     ],
     [
-      "Pisici/Patient 46/a36723e6",
+      "Pisici/pt_eebc9213ac5b199c/im_0f53b4091855a613",
       1
     ],
     [
-      "Pisici/Patient 46/a3679846",
+      "Pisici/pt_eebc9213ac5b199c/im_297a2233e82f322c",
       1
     ],
     [
-      "Pisici/Patient 46/a3680cbb",
+      "Pisici/pt_eebc9213ac5b199c/im_f5600845834d5678",
       1
     ],
     [
-      "Pisici/Patient 46/a368811b",
+      "Pisici/pt_eebc9213ac5b199c/im_6544d378998d0deb",
       1
     ],
     [
-      "Catei/Patient 27/c4cb70f6",
+      "Catei/pt_3ced46f2fd6ad94d/im_3eb4c0198aef55e7",
       0
     ],
     [
-      "Catei/Patient 27/c4cbe556",
+      "Catei/pt_3ced46f2fd6ad94d/im_8532c41d9549bb90",
       0
     ],
     [
-      "Catei/Patient 27/c4cc59cb",
+      "Catei/pt_3ced46f2fd6ad94d/im_020a0c09416dc10f",
       0
     ],
     [
-      "Catei/Patient 27/c4ccce2b",
+      "Catei/pt_3ced46f2fd6ad94d/im_58971d6b7f6acc08",
       0
     ],
     [
-      "Catei/Patient 85/3ea06b",
+      "Catei/pt_b7158cb27ceacf13/im_d9d4e53f52af9f73",
       0
     ],
     [
-      "Catei/Patient 85/574c5730",
+      "Catei/pt_b7158cb27ceacf13/im_3a9dac422a67337a",
       0
     ],
     [
-      "Catei/Patient 85/574ccb90",
+      "Catei/pt_b7158cb27ceacf13/im_542952bb4ef5a860",
       0
     ],
     [
-      "Catei/Patient 99/9d4eae49",
+      "Catei/pt_3053c457a8e202b5/im_4af76ab093a4f33c",
       0
     ],
     [
-      "Catei/Patient 99/9d4f22be",
+      "Catei/pt_3053c457a8e202b5/im_94ea95b645f54e44",
       0
     ],
     [
-      "Pisici/Patient 74/b9a7594",
+      "Pisici/pt_c659513f589f1f68/im_08b7883b5206032d",
       1
     ],
     [
-      "Pisici/Patient 74/d86912f2",
+      "Pisici/pt_c659513f589f1f68/im_f0d1817b3f27c539",
       1
     ],
     [
-      "Pisici/Patient 74/d8698752",
+      "Pisici/pt_c659513f589f1f68/im_423ebcf2db91e02e",
       1
     ],
     [
-      "Pisici/Patient 74/df3c756e",
+      "Pisici/pt_c659513f589f1f68/im_d653ae47b5a37333",
       1
     ],
     [
-      "Pisici/Patient 40/80213bb4",
+      "Pisici/pt_ae2919337b1453de/im_568a4e07f4dd3b0a",
       1
     ],
     [
-      "Pisici/Patient 40/8021b014",
+      "Pisici/pt_ae2919337b1453de/im_fc9c1f4b12ec3432",
       1
     ],
     [
-      "Catei/Patient 70/1f87e43c",
+      "Catei/pt_ad11c7e31beb5cbe/im_861a0f6ab11aa777",
       0
     ],
     [
-      "Catei/Patient 70/1f88589c",
+      "Catei/pt_ad11c7e31beb5cbe/im_5a41b11c189489c3",
       0
     ],
     [
-      "Catei/Patient 70/1f88cd11",
+      "Catei/pt_ad11c7e31beb5cbe/im_4eddec96ea8f9ecf",
       0
     ],
     [
-      "Catei/Patient 70/1f894171",
+      "Catei/pt_ad11c7e31beb5cbe/im_558c3c5f968da258",
       0
     ],
     [
-      "Catei/Patient 70/1f89b5d1",
+      "Catei/pt_ad11c7e31beb5cbe/im_0d4ca5964dba62fa",
       0
     ],
     [
-      "Pisici/Patient 75/50fc859e",
+      "Pisici/pt_947df1426119d3b7/im_7358c67aff997e0f",
       1
     ],
     [
-      "Pisici/Patient 75/50fcf9fe",
+      "Pisici/pt_947df1426119d3b7/im_9493498eb0e84bae",
       1
     ],
     [
-      "Pisici/Patient 75/50fd6e73",
+      "Pisici/pt_947df1426119d3b7/im_3f20a1773df47b74",
       1
     ],
     [
-      "Catei/Patient 73/bef0a8cc",
+      "Catei/pt_7241d371f2c5cb17/im_05e236398171782c",
       0
     ],
     [
-      "Catei/Patient 73/bef11d2c",
+      "Catei/pt_7241d371f2c5cb17/im_b05fa29a876d8d25",
       0
     ],
     [
-      "Catei/Patient 73/bef191a1",
+      "Catei/pt_7241d371f2c5cb17/im_bb0e7e657e384e15",
       0
     ],
     [
-      "Catei/Patient 90/9bfbc5b4",
+      "Catei/pt_7f0e4301f0e5e90e/im_b411e05efe4569ea",
       0
     ],
     [
-      "Catei/Patient 90/9bfc3a14",
+      "Catei/pt_7f0e4301f0e5e90e/im_31a82b786b9804b9",
       0
     ],
     [
-      "Catei/Patient 60/2c44543",
+      "Catei/pt_cccf6d05526b9949/im_018edcfc2df52bdd",
       0
     ],
     [
-      "Catei/Patient 60/2c4b9a3",
+      "Catei/pt_cccf6d05526b9949/im_45b94f8891ab62db",
       0
     ],
     [
-      "Catei/Patient 80/f1d8fd99",
+      "Catei/pt_d5942051bd87e03d/im_9f870c510cc7c891",
       0
     ],
     [
-      "Catei/Patient 80/f1d971f9",
+      "Catei/pt_d5942051bd87e03d/im_3509cf6f43dbff2f",
       0
     ],
     [
-      "Catei/Patient 80/f1d9e66e",
+      "Catei/pt_d5942051bd87e03d/im_489dbd4b6abefa77",
       0
     ],
     [
-      "Catei/Patient 53/11b79c67",
+      "Catei/pt_e10d25fed483654e/im_31bfe58d6ab4e4a1",
       0
     ],
     [
-      "Catei/Patient 53/1a3fd782",
+      "Catei/pt_e10d25fed483654e/im_f4ff85ebfee35cf8",
       0
     ],
     [
-      "Pisici/Patient 39/3988ed0a",
+      "Pisici/pt_8e12236f375fb5d3/im_04cc4444e41dbb5a",
       1
     ],
     [
-      "Pisici/Patient 39/3989616a",
+      "Pisici/pt_8e12236f375fb5d3/im_a9497c59a5ea8b94",
       1
     ],
     [
-      "Pisici/Patient 4/cbd5e1f8",
+      "Pisici/pt_4518c7e8fe877c04/im_b3c4f0237b804129",
       1
     ],
     [
-      "Pisici/Patient 4/cbd65658",
+      "Pisici/pt_4518c7e8fe877c04/im_15dcfe8c095a204e",
       1
     ],
     [
-      "Pisici/Patient 15/78d83ecf",
+      "Pisici/pt_5dbe3e4d463f0b26/im_0fbdaf8222db4d64",
       1
     ],
     [
-      "Pisici/Patient 15/78d8b32f",
+      "Pisici/pt_5dbe3e4d463f0b26/im_7a922e4b04a4f267",
       1
     ],
     [
-      "Pisici/Patient 82/6f67057f",
+      "Pisici/pt_dddb07fd4af4c647/im_f0218d21c2e85eb9",
       1
     ],
     [
-      "Pisici/Patient 82/6f6779df",
+      "Pisici/pt_dddb07fd4af4c647/im_5c3525ae710b7186",
       1
     ],
     [
-      "Pisici/Patient 82/6f67ee54",
+      "Pisici/pt_dddb07fd4af4c647/im_e61616951c8e5787",
       1
     ],
     [
-      "Catei/Patient 25/91e8ef7f",
+      "Catei/pt_65ebbe46aba93f2e/im_21854161ae566ecb",
       0
     ],
     [
-      "Catei/Patient 25/91e963df",
+      "Catei/pt_65ebbe46aba93f2e/im_34d7d8a3a5c9fd6c",
       0
     ],
     [
-      "Catei/Patient 52/54fc2d03",
+      "Catei/pt_c763d698e101277d/im_b62d16cebaf27490",
       0
     ],
     [
-      "Catei/Patient 52/54fca163",
+      "Catei/pt_c763d698e101277d/im_4bee4bba2a55d73f",
       0
     ],
     [
-      "Catei/Patient 52/54fd15d8",
+      "Catei/pt_c763d698e101277d/im_48a841b9afd2d360",
       0
     ],
     [
-      "Catei/Patient 52/54fd8a38",
+      "Catei/pt_c763d698e101277d/im_9f61ad48e9443e50",
       0
     ],
     [
-      "Catei/Patient 52/54fdfe98",
+      "Catei/pt_c763d698e101277d/im_200ba2efdcedbc92",
       0
     ],
     [
-      "Pisici/Patient 2/a99eacce",
+      "Pisici/pt_883222fcd92ae7f9/im_c0dbf38c41045f8d",
       1
     ],
     [
-      "Pisici/Patient 2/a99f212e",
+      "Pisici/pt_883222fcd92ae7f9/im_a106f8dfdd959f0a",
       1
     ],
     [
-      "Pisici/Patient 2/a99f95a3",
+      "Pisici/pt_883222fcd92ae7f9/im_0d0c0241f3838b01",
       1
     ],
     [
-      "Pisici/Patient 2/a9a00a03",
+      "Pisici/pt_883222fcd92ae7f9/im_166e3bb4053d23c3",
       1
     ],
     [
-      "Catei/Patient 9/53df797",
+      "Catei/pt_3313f936d0b8766b/im_47fba4ff7e82f33a",
       0
     ],
     [
-      "Catei/Patient 9/53e6bf7",
+      "Catei/pt_3313f936d0b8766b/im_bf0dc6d7bab603fa",
       0
     ],
     [
-      "Catei/Patient 9/53ee06c",
+      "Catei/pt_3313f936d0b8766b/im_f404a91838704c42",
       0
     ],
     [
-      "Catei/Patient 84/3df1188c",
+      "Catei/pt_28023b611e1b825b/im_093442c3030588dc",
       0
     ],
     [
-      "Catei/Patient 84/3df18cec",
+      "Catei/pt_28023b611e1b825b/im_bdb6550d86540590",
       0
     ],
     [
-      "Catei/Patient 84/3df20161",
+      "Catei/pt_28023b611e1b825b/im_d9ec6eacd5f33cdd",
       0
     ],
     [
-      "Catei/Patient 84/3df275c1",
+      "Catei/pt_28023b611e1b825b/im_ce8f24c59f8ac199",
       0
     ],
     [
-      "Catei/Patient 84/3df2ea21",
+      "Catei/pt_28023b611e1b825b/im_8346afcb73f18132",
       0
     ],
     [
-      "Catei/Patient 84/b3dcd995",
+      "Catei/pt_28023b611e1b825b/im_e014d0f5a4a83fd5",
       0
     ],
     [
-      "Catei/Patient 84/b3dd4df5",
+      "Catei/pt_28023b611e1b825b/im_93e8f18b09b4974a",
       0
     ],
     [
-      "Catei/Patient 84/b3ddc26a",
+      "Catei/pt_28023b611e1b825b/im_5e9d6df5c7f9a47e",
       0
     ],
     [
-      "Catei/Patient 84/b3de36ca",
+      "Catei/pt_28023b611e1b825b/im_545e95c8d08dae83",
       0
     ],
     [
-      "Catei/Patient 84/b3deab2a",
+      "Catei/pt_28023b611e1b825b/im_3e96a2de3a3e71e6",
       0
     ],
     [
-      "Catei/Patient 100/818fcd",
+      "Catei/pt_acf047f17a753800/im_823142b1051d8b96",
       0
     ],
     [
-      "Catei/Patient 100/82042d",
+      "Catei/pt_acf047f17a753800/im_6fca98fe05ae0af7",
       0
     ],
     [
-      "Catei/Patient 100/8278a2",
+      "Catei/pt_acf047f17a753800/im_319af462ada2ff65",
       0
     ],
     [
-      "Catei/Patient 100/82ed02",
+      "Catei/pt_acf047f17a753800/im_33af64263f03a1a7",
       0
     ],
     [
-      "Pisici/Patient 83/57785a83",
+      "Pisici/pt_92e06cbb39f8dec1/im_e74d185d40ead0fc",
       1
     ],
     [
-      "Pisici/Patient 83/5778cee3",
+      "Pisici/pt_92e06cbb39f8dec1/im_ccd85e5867decb4b",
       1
     ],
     [
-      "Pisici/Patient 34/5811c4ab",
+      "Pisici/pt_b3be5b854fecaa78/im_27c18ba6db930c60",
       1
     ],
     [
-      "Pisici/Patient 34/b0625411",
+      "Pisici/pt_b3be5b854fecaa78/im_83df16cb919d3e2d",
       1
     ],
     [
-      "Catei/Patient 24/cfa4e92a",
+      "Catei/pt_ded518427019ebbe/im_0af0d2737e26b42a",
       0
     ],
     [
-      "Catei/Patient 24/cfa55d8a",
+      "Catei/pt_ded518427019ebbe/im_82d128328d1c58aa",
       0
     ]
   ],
   "patients": {
     "train": [
-      "Catei/Patient 36",
-      "Pisici/Patient 84",
-      "Catei/Patient 57",
-      "Catei/Patient 102",
-      "Pisici/Patient 38",
-      "Catei/Patient 8",
-      "Catei/Patient 34",
-      "Catei/Patient 67",
-      "Catei/Patient 16",
-      "Catei/Patient 83",
-      "Catei/Patient 82",
-      "Pisici/Patient 80",
-      "Catei/Patient 21",
-      "Catei/Patient 14",
-      "Catei/Patient 44",
-      "Pisici/Patient 21",
-      "Catei/Patient 18",
-      "Pisici/Patient 25",
-      "Pisici/Patient 61",
-      "Catei/Patient 55",
-      "Catei/Patient 47",
-      "Catei/Patient 41",
-      "Pisici/Patient 41",
-      "Catei/Patient 38",
-      "Catei/Patient 66",
-      "Pisici/Patient 14",
-      "Catei/Patient 74",
-      "Pisici/Patient 8 ",
-      "Catei/Patient 42",
-      "Pisici/Patient 59",
-      "Catei/Patient 12",
-      "Pisici/Patient 9",
-      "Catei/Patient 22",
-      "Catei/Patient 30",
-      "Pisici/Patient 22",
-      "Catei/Patient 5",
-      "Catei/Patient 59",
-      "Catei/Patient 91",
-      "Pisici/Patient 3",
-      "Catei/Patient 103",
-      "Pisici/Patient 73",
-      "Catei/Patient 45",
-      "Catei/Patient 28",
-      "Pisici/Patient 26",
-      "Catei/Patient 7",
-      "Catei/Patient 51",
-      "Catei/Patient 4",
-      "Catei/Patient 76",
-      "Pisici/Patient 28",
-      "Pisici/Patient 23",
-      "Pisici/Patient 18",
-      "Catei/Patient 11",
-      "Catei/Patient 62",
-      "Pisici/Patient 35",
-      "Catei/Patient 63",
-      "Catei/Patient 48",
-      "Pisici/Patient 51",
-      "Catei/Patient 86",
-      "Catei/Patient 6",
-      "Catei/Patient 35",
-      "Pisici/Patient 72",
-      "Catei/Patient 72",
-      "Pisici/Patient 43",
-      "Catei/Patient 81",
-      "Catei/Patient 64",
-      "Catei/Patient 50",
-      "Pisici/Patient 63",
-      "Catei/Patient 61",
-      "Catei/Patient 97",
-      "Pisici/Patient 6",
-      "Catei/Patient 26",
-      "Catei/Patient 33",
-      "Pisici/Patient 53",
-      "Pisici/Patient 7",
-      "Pisici/Patient 66",
-      "Pisici/Patient 78",
-      "Catei/Patient 10",
-      "Pisici/Patient 56",
-      "Catei/Patient 29",
-      "Pisici/Patient 77",
-      "Catei/Patient 79",
-      "Pisici/Patient 36",
-      "Pisici/Patient 45",
-      "Pisici/Patient 52",
-      "Pisici/Patient 17",
-      "Catei/Patient 46",
-      "Pisici/Patient 31",
-      "Catei/Patient 1",
-      "Catei/Patient 56",
-      "Catei/Patient 3",
-      "Pisici/Patient 33",
-      "Catei/Patient 15",
-      "Pisici/Patient 30",
-      "Catei/Patient 43",
-      "Pisici/Patient 1",
-      "Catei/Patient 96",
-      "Catei/Patient 39",
-      "Pisici/Patient 67",
-      "Catei/Patient 78",
-      "Pisici/Patient 54",
-      "Catei/Patient 40",
-      "Pisici/Patient 11",
-      "Catei/Patient 23",
-      "Pisici/Patient 27",
-      "Catei/Patient 94",
-      "Pisici/Patient 62",
-      "Catei/Patient 17",
-      "Catei/Patient 65",
-      "Pisici/Patient 57",
-      "Catei/Patient 101",
-      "Pisici/Patient 50",
-      "Pisici/Patient 5",
-      "Pisici/Patient 79",
-      "Catei/Patient 95",
-      "Catei/Patient 69",
-      "Pisici/Patient 10",
-      "Pisici/Patient 64",
-      "Pisici/Patient 68",
-      "Pisici/Patient 76",
-      "Pisici/Patient 24",
-      "Pisici/Patient 55",
-      "Pisici/Patient 20",
-      "Pisici/Patient 58",
-      "Catei/Patient 13",
-      "Catei/Patient 49",
-      "Pisici/Patient 71",
-      "Catei/Patient 54",
-      "Pisici/Patient 32",
-      "Pisici/Patient 70",
-      "Catei/Patient 31"
+      "Catei/pt_ed3fd2f9cc733244",
+      "Pisici/pt_76d1e2d5a9033b8e",
+      "Catei/pt_a597a4ed66435484",
+      "Catei/pt_f7b41681ae340fe2",
+      "Pisici/pt_e1e87ca159d98991",
+      "Catei/pt_42442bdef7b8083c",
+      "Catei/pt_c7242ad6cba6ffd1",
+      "Catei/pt_a2872af179c60fae",
+      "Catei/pt_5ce4effd87dc64c2",
+      "Catei/pt_daa35320cd295192",
+      "Catei/pt_abf20f50079c54b8",
+      "Pisici/pt_98777f01425671a6",
+      "Catei/pt_9eafe497d69dba30",
+      "Catei/pt_b27745023bb4f753",
+      "Catei/pt_f58e7f89daffe1e8",
+      "Pisici/pt_8b7596bcc5b5417c",
+      "Catei/pt_7c11ac92b52e04dd",
+      "Pisici/pt_02a8ab06368b5a10",
+      "Pisici/pt_0961e528204be8ac",
+      "Catei/pt_288600a15c20e2fc",
+      "Catei/pt_702db1c1f0c4690c",
+      "Catei/pt_6b636f435bbfc4a2",
+      "Pisici/pt_8384d962ba6fb190",
+      "Catei/pt_00d90065c2cd8f8f",
+      "Catei/pt_ac2e4f03ea2a6b2d",
+      "Pisici/pt_6514bf59da477881",
+      "Catei/pt_b396db2727ce3773",
+      "Pisici/pt_6fedd1a8baa91698",
+      "Catei/pt_b4720da2e7aa16a7",
+      "Pisici/pt_86088922d2152578",
+      "Catei/pt_f74ee09fdeb7a231",
+      "Pisici/pt_13715cd756f8ca38",
+      "Catei/pt_a6febeb3609d6a97",
+      "Catei/pt_2b64a798c386029c",
+      "Pisici/pt_791ab87141c7753e",
+      "Catei/pt_4395830215ce29ac",
+      "Catei/pt_c33ce82302006ac3",
+      "Catei/pt_7f5b7fc52bf43cf7",
+      "Pisici/pt_a9ec6281e91aacca",
+      "Catei/pt_cdbfaac94e7ff73f",
+      "Pisici/pt_fbfe5e92c1b110ea",
+      "Catei/pt_5067f16521b5df7b",
+      "Catei/pt_d88290615021b368",
+      "Pisici/pt_e233b07306c2aa75",
+      "Catei/pt_062c980842250383",
+      "Catei/pt_93602c3cac4641a5",
+      "Catei/pt_fa5bce8027e3a151",
+      "Catei/pt_cf03d3a27129bad8",
+      "Pisici/pt_e4f9baf8736ddc79",
+      "Pisici/pt_51824a0ab0ad7759",
+      "Pisici/pt_0f9d2b3237b66199",
+      "Catei/pt_51022ed4525fd8db",
+      "Catei/pt_dedc6c28b1a507b4",
+      "Pisici/pt_e88453bafbed6f60",
+      "Catei/pt_cebd84091c093257",
+      "Catei/pt_0f8bf1bf29a844a7",
+      "Pisici/pt_8becb0a0cab1d1d9",
+      "Catei/pt_7620dcc3b200513c",
+      "Catei/pt_36ed6bc7a45e41f6",
+      "Catei/pt_08a345e297571ac4",
+      "Pisici/pt_5f6e82856d10ffc3",
+      "Catei/pt_7597f439fae61bad",
+      "Pisici/pt_a025ca628a9ccb3c",
+      "Catei/pt_fdf48417845f731c",
+      "Catei/pt_ce296a370bd906d0",
+      "Catei/pt_4f656493493c071e",
+      "Pisici/pt_9f1bea3d84f5e343",
+      "Catei/pt_476d604d390905da",
+      "Catei/pt_8bcfd9a8fae4486b",
+      "Pisici/pt_44b91026b4de952f",
+      "Catei/pt_3a8889c3547473f6",
+      "Catei/pt_46087adcdd995eda",
+      "Pisici/pt_c6e7ffedc2109b28",
+      "Pisici/pt_4b3e174dadc65e31",
+      "Pisici/pt_964c7c2dfe845097",
+      "Pisici/pt_39ed77942a42d6b0",
+      "Catei/pt_56a759ce5b99d8bf",
+      "Pisici/pt_3965569e789ccefa",
+      "Catei/pt_0f60938855b0d02f",
+      "Pisici/pt_0a8a7a231533e43d",
+      "Catei/pt_d34c15a865b2a7dd",
+      "Pisici/pt_dad7ff410614ec92",
+      "Pisici/pt_9c0ea90b146f81d6",
+      "Pisici/pt_e49c7d32c08b8427",
+      "Pisici/pt_b428fcab4506de5c",
+      "Catei/pt_778816e2997481c1",
+      "Pisici/pt_d7b05ad772cd55a8",
+      "Catei/pt_fda05a881e376e70",
+      "Catei/pt_c5a708eec13a8775",
+      "Catei/pt_c6be093c4222ce20",
+      "Pisici/pt_6bdc70d7e67194f9",
+      "Catei/pt_6b7736e914063b76",
+      "Pisici/pt_6720b03a92c327e0",
+      "Catei/pt_2b4439357314a490",
+      "Pisici/pt_f4bbbc362aecd1b9",
+      "Catei/pt_606637e4dc935d27",
+      "Catei/pt_969a77003addf258",
+      "Pisici/pt_8c912b3b38bd7d58",
+      "Catei/pt_b07d872f0ca3089d",
+      "Pisici/pt_280d2bc32ab7a15a",
+      "Catei/pt_b2cf2a1b549839af",
+      "Pisici/pt_fe2b70a4581bf227",
+      "Catei/pt_2b201f5ba69701e6",
+      "Pisici/pt_bf53cf5ddce097c6",
+      "Catei/pt_6d3561ec8ecf9eb1",
+      "Pisici/pt_8ee5f19c7e7fe049",
+      "Catei/pt_042c7306aecfaf12",
+      "Catei/pt_57c4b2db479157d4",
+      "Pisici/pt_1b5572643eda8542",
+      "Catei/pt_499e9ae84ff95c66",
+      "Pisici/pt_1768ef25fbed0b1f",
+      "Pisici/pt_c459127aa2346ce1",
+      "Pisici/pt_4c0ffbcf12fa633a",
+      "Catei/pt_75440c0a5e0b383c",
+      "Catei/pt_746586e5561cba98",
+      "Pisici/pt_bf14f63482cfc9fb",
+      "Pisici/pt_712d3683ce161b2e",
+      "Pisici/pt_b5840a997359cd49",
+      "Pisici/pt_8d876b98e24bedaf",
+      "Pisici/pt_f6589cf6cba32f63",
+      "Pisici/pt_3dbbe639c7a2df11",
+      "Pisici/pt_14facef153088983",
+      "Pisici/pt_44b8478293aed1f9",
+      "Catei/pt_82408be742141c40",
+      "Catei/pt_caca20db88fba3b7",
+      "Pisici/pt_329ddd5dcb4432a4",
+      "Catei/pt_5f8e364134002121",
+      "Pisici/pt_b91e997f2a8f6f72",
+      "Pisici/pt_9efed2d8a55d359a",
+      "Catei/pt_21d806fb07afc0ee"
     ],
     "val": [
-      "Catei/Patient 37",
-      "Pisici/Patient 19",
-      "Catei/Patient 32",
-      "Catei/Patient 68",
-      "Catei/Patient 98",
-      "Pisici/Patient 48",
-      "Pisici/Patient 42",
-      "Pisici/Patient 47",
-      "Catei/Patient 75",
-      "Catei/Patient 2",
-      "Catei/Patient 71",
-      "Catei/Patient 88",
-      "Catei/Patient 89",
-      "Pisici/Patient 81",
-      "Pisici/Patient 37",
-      "Catei/Patient 77",
-      "Catei/Patient 87",
-      "Catei/Patient 93",
-      "Pisici/Patient 12",
-      "Pisici/Patient 44",
-      "Catei/Patient 20",
-      "Pisici/Patient 65",
-      "Catei/Patient 92",
-      "Pisici/Patient 29",
-      "Pisici/Patient 60",
-      "Catei/Patient 58",
-      "Pisici/Patient 69",
-      "Pisici/Patient 49"
+      "Catei/pt_a3b5d977e279a47d",
+      "Pisici/pt_25f61c8f4f412f5b",
+      "Catei/pt_562b485863520ea6",
+      "Catei/pt_27579af7a4724ad6",
+      "Catei/pt_3fb2c68da0a16b25",
+      "Pisici/pt_1f87a3b7b6bd0242",
+      "Pisici/pt_bb2df144a45f0993",
+      "Pisici/pt_22573c8f65b6fd03",
+      "Catei/pt_423784b31b7ecb74",
+      "Catei/pt_9caeeb9c97d1b5ad",
+      "Catei/pt_e59b3e172ef9558c",
+      "Catei/pt_b331a32465b623a6",
+      "Catei/pt_0e56d447808e9800",
+      "Pisici/pt_214329f246be14fa",
+      "Pisici/pt_c8ca5f6624b66a33",
+      "Catei/pt_4d1cf955de7390c5",
+      "Catei/pt_e09fb0467d1527ac",
+      "Catei/pt_012a74d2d4ada535",
+      "Pisici/pt_d5e92abc928c55c8",
+      "Pisici/pt_3d5bc7147bbc488a",
+      "Catei/pt_09301d306e18c7cf",
+      "Pisici/pt_de1d441bd4863331",
+      "Catei/pt_4eb6321daf2bde89",
+      "Pisici/pt_3f64f61d72f23294",
+      "Pisici/pt_8a12a302492c49d7",
+      "Catei/pt_a6701b2cdd59815c",
+      "Pisici/pt_c666e9cd7fbbaa95",
+      "Pisici/pt_b7ea11e0e30c178b"
     ],
     "test": [
-      "Catei/Patient 19",
-      "Pisici/Patient 13",
-      "Pisici/Patient 16",
-      "Pisici/Patient 46",
-      "Catei/Patient 27",
-      "Catei/Patient 85",
-      "Catei/Patient 99",
-      "Pisici/Patient 74",
-      "Pisici/Patient 40",
-      "Catei/Patient 70",
-      "Pisici/Patient 75",
-      "Catei/Patient 73",
-      "Catei/Patient 90",
-      "Catei/Patient 60",
-      "Catei/Patient 80",
-      "Catei/Patient 53",
-      "Pisici/Patient 39",
-      "Pisici/Patient 4",
-      "Pisici/Patient 15",
-      "Pisici/Patient 82",
-      "Catei/Patient 25",
-      "Catei/Patient 52",
-      "Pisici/Patient 2",
-      "Catei/Patient 9",
-      "Catei/Patient 84",
-      "Catei/Patient 100",
-      "Pisici/Patient 83",
-      "Pisici/Patient 34",
-      "Catei/Patient 24"
+      "Catei/pt_58ed4cd78abe896d",
+      "Pisici/pt_6fe484d9ce05887b",
+      "Pisici/pt_32c7109fa8981d49",
+      "Pisici/pt_eebc9213ac5b199c",
+      "Catei/pt_3ced46f2fd6ad94d",
+      "Catei/pt_b7158cb27ceacf13",
+      "Catei/pt_3053c457a8e202b5",
+      "Pisici/pt_c659513f589f1f68",
+      "Pisici/pt_ae2919337b1453de",
+      "Catei/pt_ad11c7e31beb5cbe",
+      "Pisici/pt_947df1426119d3b7",
+      "Catei/pt_7241d371f2c5cb17",
+      "Catei/pt_7f0e4301f0e5e90e",
+      "Catei/pt_cccf6d05526b9949",
+      "Catei/pt_d5942051bd87e03d",
+      "Catei/pt_e10d25fed483654e",
+      "Pisici/pt_8e12236f375fb5d3",
+      "Pisici/pt_4518c7e8fe877c04",
+      "Pisici/pt_5dbe3e4d463f0b26",
+      "Pisici/pt_dddb07fd4af4c647",
+      "Catei/pt_65ebbe46aba93f2e",
+      "Catei/pt_c763d698e101277d",
+      "Pisici/pt_883222fcd92ae7f9",
+      "Catei/pt_3313f936d0b8766b",
+      "Catei/pt_28023b611e1b825b",
+      "Catei/pt_acf047f17a753800",
+      "Pisici/pt_92e06cbb39f8dec1",
+      "Pisici/pt_b3be5b854fecaa78",
+      "Catei/pt_ded518427019ebbe"
     ]
   },
-  "path_format": "relative_to_data_root",
-  "data_root_layout": {
-    "cats_dir": "Pisici",
-    "dogs_dir": "Catei"
-  }
+  "path_format": "anonymized_relative_to_data_root",
+  "anonymization_note": "pt_* and im_* are SHA-256 truncations of species/patient-folder and full relative path; on-disk folders are unchanged. Resolved at runtime via build_path_lookup()."
 }

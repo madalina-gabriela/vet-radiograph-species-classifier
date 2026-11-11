@@ -367,7 +367,7 @@ def main() -> None:
         raise RuntimeError("No DICOM samples found under patient folders.")
 
     sample_paths = [p for p, _ in samples]
-    if splits_file_is_compatible(splits_path, sample_paths, data_root):
+    if splits_file_is_compatible(splits_path, sample_paths, data_root, args.cats_dir, args.dogs_dir):
         splits = load_split_from_json(json.loads(splits_path.read_text(encoding="utf-8")))
         print(f"Loaded splits from {splits_path} (level={splits.split_level})")
     else:
@@ -385,11 +385,16 @@ def main() -> None:
                 test_size=args.test_size,
                 val_size=args.val_size,
             )
-        splits_path.write_text(json.dumps(split_to_json_dict(splits), indent=2), encoding="utf-8")
+        splits_path.write_text(
+            json.dumps(split_to_json_dict(splits, data_root), indent=2),
+            encoding="utf-8",
+        )
         print(f"Wrote new {args.split_level}-level splits to {splits_path}")
 
     def to_samples(raw: List[Tuple[str, int]]) -> List[Tuple[Path, int]]:
-        return [(resolve_dicom_path(str(p), data_root), int(y)) for p, y in raw]
+        return [
+            (resolve_dicom_path(str(p), data_root, args.cats_dir, args.dogs_dir), int(y)) for p, y in raw
+        ]
 
     train_samples = to_samples(splits.train)
     val_samples = to_samples(splits.val)

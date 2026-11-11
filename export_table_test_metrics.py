@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Export Table 3 — test-set classification metrics (Frontiers-style, reformatted)."""
+"""Export test-set classification metrics table to Word (.docx) and Markdown from metrics.json."""
 
 from __future__ import annotations
 
@@ -196,8 +196,8 @@ def main() -> None:
     per_class = build_per_class_rows(data["metrics"])
     summary = build_summary_rows(data)
     out_dir = Path(args.output_dir)
-    docx = out_dir / "Table_3_Classification_performance_Frontiers.docx"
-    md = out_dir / "Table_3_Classification_performance_Frontiers.md"
+    docx = out_dir / "Table_3_Classification_performance.docx"
+    md = out_dir / "Table_3_Classification_performance.md"
     write_docx(docx, per_class, summary)
     write_markdown(md, per_class, summary)
     print(f"Wrote {docx}")

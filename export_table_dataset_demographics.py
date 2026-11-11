@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Export Table 1 in Frontiers journal style (Word .docx + markdown)."""
+"""Export dataset demographics table to Word (.docx) and Markdown from dataset_statistics.json."""
 
 from __future__ import annotations
 
@@ -276,8 +276,8 @@ def main() -> None:
     out_dir = Path(args.output_dir)
     data = load_data(Path(args.input_json))
     rows = build_rows(data)
-    docx_path = out_dir / "Table_1_Dataset_characteristics_Frontiers.docx"
-    md_path = out_dir / "Table_1_Dataset_characteristics_Frontiers.md"
+    docx_path = out_dir / "Table_1_Dataset_characteristics.docx"
+    md_path = out_dir / "Table_1_Dataset_characteristics.md"
     write_docx(docx_path, rows)
     write_markdown(md_path, rows)
     print(f"Wrote {docx_path}")
